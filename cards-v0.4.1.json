@@ -1,0 +1,445 @@
+{
+ "schema": "game-scoop-fact-card/0.4",
+ "dataset_version": "0.2-draft",
+ "cards": [
+  {
+   "edition_id": "gs20q-862",
+   "episode": 862,
+   "episode_date": "2026-06-26",
+   "episode_title": "Even GTA Won't Break the $80 Ceiling",
+   "episode_url": "https://traffic.megaphone.fm/SBP3347680035.mp3",
+   "segment_seconds": [
+    4087.78,
+    4776.6
+   ],
+   "game": {
+    "title": "Toy Story 3",
+    "accepted_titles": [
+     "Toy Story 3",
+     "Toy Story 3: The Video Game"
+    ],
+    "genre": "Platform game",
+    "playable_scope": "Playable scope (per Dot QA narrowing, 2026-10-14): PlayStation 3, Xbox 360, Wii, Windows, PlayStation 2, PlayStation Portable, Nintendo DS. Excluded as distinct versions outside the pilot scope: iOS (Disney Mobile Studios) and Mac OS X (TransGaming port).",
+    "facts": [
+     {
+      "fact": "Developer \u2014 PS3 / Xbox 360 / Wii / Windows editions",
+      "value": "Avalanche Software",
+      "source_url": "https://en.wikipedia.org/wiki/Toy_Story_3:_The_Video_Game",
+      "locator": "infobox + lead"
+     },
+     {
+      "fact": "Developer \u2014 PS2 / PSP editions",
+      "value": "Asobo Studio",
+      "source_url": "https://en.wikipedia.org/wiki/Toy_Story_3:_The_Video_Game",
+      "locator": "lead"
+     },
+     {
+      "fact": "Developer \u2014 DS edition",
+      "value": "n-Space",
+      "source_url": "https://en.wikipedia.org/wiki/Toy_Story_3:_The_Video_Game",
+      "locator": "lead"
+     },
+     {
+      "fact": "Release year (original editions)",
+      "value": 2010,
+      "source_url": "https://en.wikipedia.org/wiki/Toy_Story_3:_The_Video_Game",
+      "locator": "lead"
+     },
+     {
+      "fact": "Publisher",
+      "value": "Disney Interactive Studios",
+      "source_url": "https://en.wikipedia.org/wiki/Toy_Story_3:_The_Video_Game",
+      "locator": "infobox"
+     }
+    ],
+    "production_notes": [
+     "Playable Zurg is exclusive to the original PS3 edition (source: PlayStation Blog producer post, https://blog.playstation.com/2010/04/30/toy-story-3-the-video-game-revealed-for-ps3/); the later Complete Edition (Switch and others, 2026) also includes Zurg, so the exclusivity is scoped to the original editions. Not used as a playable fact."
+    ],
+    "round_history_traits": [
+     {
+      "trait": "Play as a human",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "4521.10s",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "First-person",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "4299.02s",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Published by Activision",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "4154.96s",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Lego game",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "4357.09s",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Part of a series",
+      "value": true,
+      "source": "episode transcript",
+      "locator": "4366.65s",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Licensed movie tie-in",
+      "value": true,
+      "source": "episode transcript (host reveal context)",
+      "locator": "4682.38s",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     }
+    ],
+    "playable_traits": [
+     {
+      "trait": "Genre: platform game",
+      "value": true,
+      "source_url": "https://en.wikipedia.org/wiki/Toy_Story_3:_The_Video_Game",
+      "locator": "lead"
+     },
+     {
+      "trait": "Licensed movie tie-in (based on the 2010 film)",
+      "value": true,
+      "source_url": "https://en.wikipedia.org/wiki/Toy_Story_3:_The_Video_Game",
+      "locator": "lead"
+     }
+    ]
+   },
+   "round": {
+    "show_convention": "20 questions plus a reserved final guess",
+    "charged_turns": 20,
+    "yes_no_questions": null,
+    "title_guesses": null,
+    "final_guess_status": "available_but_declined",
+    "solved": false,
+    "outcome": "All 20 questions spent; team declined the final guess; host revealed Toy Story 3 at 4701.44s",
+    "evidence_completeness": "partial \u2014 first ~11 questions predate the 16-minute transcript tail; ledger complete from the host's 'you've asked 12' tally (4176.43s) onward",
+    "ledger_from_checkpoint_12": [
+     {
+      "n": 13,
+      "q": "Developed by Double Fine?",
+      "a": "No",
+      "t": 4185.15
+     },
+     {
+      "n": 14,
+      "q": "First-person game?",
+      "a": "No",
+      "t": 4299.02
+     },
+     {
+      "n": 15,
+      "q": "Is it a Lego game?",
+      "a": "No (host: 'that's 15')",
+      "t": 4357.09
+     },
+     {
+      "n": 16,
+      "q": "Part of a series?",
+      "a": "Yes",
+      "t": 4366.65
+     },
+     {
+      "n": 17,
+      "q": "A game in development for this series now?",
+      "a": "Yes",
+      "t": 4377.57
+     },
+     {
+      "n": 18,
+      "q": "Do you play as a human?",
+      "a": "No",
+      "t": 4521.1
+     },
+     {
+      "n": 19,
+      "q": "Do you walk on two legs?",
+      "a": "Yes",
+      "t": 4599.58
+     },
+     {
+      "n": 20,
+      "q": "Have we mentioned this game?",
+      "a": "No",
+      "t": 4643.48
+     }
+    ],
+    "not_counted": [
+     "'Primarily melee?' probe (4192.26s): no answer given; excluded by checkpoint arithmetic",
+     "'Are you sure it's not Mirror's Edge?' (4316.18s): on-air joke, not counted"
+    ],
+    "comparison_metadata": {
+     "host_assistance": true,
+     "host_assistance_detail": "Host steered the team to the 'do you play as a human?' question (4412.53s) and gave a pre-reveal hint tying the answer to the licensed-game question (4673.82s)",
+     "external_lookup_discussed": true,
+     "external_lookup_detail": "A guesser discussed looking up platformers on his computer mid-round (4584.87s); treat this round's team total as assisted context, not a clean head-to-head baseline",
+     "team_count_role": "context shown after reveal, per pilot spec"
+    },
+    "split_confidence": "Host-counted charged total of 20 and the declined reserved final guess are verified from host statements. The full-round yes/no vs title-guess split is unknown (null): the ~11 pre-tail questions are outside the transcript window, so an early title guess cannot be ruled out. The tail-observed split from the 'asked 12' tally onward is 9 yes/no and 0 title guesses.",
+    "full_round_yes_no_questions": null,
+    "full_round_title_guesses": null,
+    "tail_observed_split": {
+     "from_question": 12,
+     "yes_no_questions": 9,
+     "title_guesses": 0
+    }
+   },
+   "verification": {
+    "verified_by": "Muse (extraction + first-hand transcript audit)",
+    "qa": "Dot \u2014 Forza v0.4 passed bounded data QA 2026-10-14; Toy Story 3 corrected per her two final notes (scope narrowed; unknown splits set to null)",
+    "method": "Whisper tail transcript ledgered against host checkpoints; game facts sourced per-fact"
+   }
+  },
+  {
+   "edition_id": "gs20q-863",
+   "episode": 863,
+   "episode_date": "2026-07-02",
+   "episode_title": "PlayStation Nukes the Physical vs Digital Debate",
+   "episode_url": "https://traffic.megaphone.fm/SBP2075936802.mp3",
+   "segment_seconds": [
+    2859.16,
+    3343.25
+   ],
+   "game": {
+    "title": "Forza Horizon",
+    "accepted_titles": [
+     "Forza Horizon",
+     "Forza Horizon 1"
+    ],
+    "genre": "Racing (open-world)",
+    "playable_scope": "Original 2012 Xbox 360 edition",
+    "facts": [
+     {
+      "fact": "Developer",
+      "value": "Playground Games",
+      "source_url": "https://en.wikipedia.org/wiki/Forza_Horizon",
+      "locator": "infobox + lead"
+     },
+     {
+      "fact": "Series studio / collaboration",
+      "value": "Turn 10 Studios \u2014 Forza series studio; collaboration and support, not lead developer",
+      "source_url": "https://en.wikipedia.org/wiki/Forza_Horizon",
+      "locator": "Development / Notes sections"
+     },
+     {
+      "fact": "Publisher",
+      "value": "Microsoft Studios",
+      "source_url": "https://en.wikipedia.org/wiki/Forza_Horizon",
+      "locator": "infobox"
+     },
+     {
+      "fact": "Original release",
+      "value": "23 October 2012 (earliest / North America release), Xbox 360 (exclusive at launch)",
+      "source_url": "https://en.wikipedia.org/wiki/Forza_Horizon",
+      "locator": "lead"
+     },
+     {
+      "fact": "Later playability (not the original platform)",
+      "value": "Playable on Xbox One via backward compatibility",
+      "source_url": "https://news.xbox.com/en-us/2016/08/24/xbox-live-games-with-gold-for-september-2016/",
+      "locator": "Games with Gold announcement"
+     }
+    ],
+    "round_history_traits": [
+     {
+      "trait": "Playable on Switch",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "ledger Q2",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "From PlayStation",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "ledger Q4",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Japanese developer",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "ledger Q5",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Shooter or action game",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "ledger Q10",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Vehicle-based / car game",
+      "value": true,
+      "source": "episode transcript",
+      "locator": "ledger Q11-12",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Open-world racing",
+      "value": true,
+      "source": "episode transcript",
+      "locator": "ledger Q15",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     }
+    ],
+    "playable_traits": [
+     {
+      "trait": "Genre: racing game",
+      "value": true,
+      "source_url": "https://en.wikipedia.org/wiki/Forza_Horizon",
+      "locator": "lead"
+     },
+     {
+      "trait": "Open-world",
+      "value": true,
+      "source_url": "https://en.wikipedia.org/wiki/Forza_Horizon",
+      "locator": "lead"
+     },
+     {
+      "trait": "Action game (broad predicate)",
+      "value": "unknown",
+      "note": "Sources conflict: Playground Games describes the title as an 'action racing game', while the show's host answered No to 'shooter or action'. A broad 'action game?' question must be answered Unknown in play.",
+      "source_url": "https://www.playground-games.com/about",
+      "locator": "studio description of Forza Horizon"
+     },
+     {
+      "trait": "From PlayStation",
+      "value": "unknown",
+      "note": "Predicate is ambiguous as asked (publisher? original platform? developer?). Precise playable predicates: original platform = Xbox 360; publisher = Microsoft Studios; developer = Playground Games (UK).",
+      "source_url": "https://en.wikipedia.org/wiki/Forza_Horizon",
+      "locator": "infobox"
+     }
+    ]
+   },
+   "round": {
+    "show_convention": "20 questions plus a reserved final guess",
+    "charged_turns": 16,
+    "yes_no_questions": 15,
+    "title_guesses": 1,
+    "final_guess_status": "not_reached \u2014 solved during the questions phase",
+    "solved": true,
+    "outcome": "Solved on charged turn 16, a title guess: 'Was it Forza Horizon?' (3153.45s). Solver not individually named; team-voiced solve.",
+    "evidence_completeness": "complete \u2014 full round inside the transcript tail; host checkpoints at turns 5 (2901.73s), 10 (3027.63s), 15 (3140.05s) match the enumeration; independently recounted by Dot from the supplied transcript",
+    "ledger": [
+     {
+      "n": 1,
+      "q": "From the 70s/80s/90s?",
+      "a": "No"
+     },
+     {
+      "n": 2,
+      "q": "Playable on Switch?",
+      "a": "No"
+     },
+     {
+      "n": 3,
+      "q": "On a disc?",
+      "a": "Yes"
+     },
+     {
+      "n": 4,
+      "q": "From PlayStation?",
+      "a": "No"
+     },
+     {
+      "n": 5,
+      "q": "Japanese developer?",
+      "a": "No",
+      "checkpoint": "host: 'That's five' 2901.73s"
+     },
+     {
+      "n": 6,
+      "q": "Exclusive to a platform at launch?",
+      "a": "Yes"
+     },
+     {
+      "n": 7,
+      "q": "On a Microsoft console at launch?",
+      "a": "Yes"
+     },
+     {
+      "n": 8,
+      "q": "Exclusive to Xbox Series consoles?",
+      "a": "No"
+     },
+     {
+      "n": 9,
+      "q": "Xbox 360 era?",
+      "a": "Yes"
+     },
+     {
+      "n": 10,
+      "q": "FPS/TPS shooter or action game?",
+      "a": "No",
+      "checkpoint": "host: 'That's 10' 3027.63s"
+     },
+     {
+      "n": 11,
+      "q": "Vehicle-based?",
+      "a": "Yes"
+     },
+     {
+      "n": 12,
+      "q": "Car game?",
+      "a": "Yes"
+     },
+     {
+      "n": 13,
+      "q": "Forza series?",
+      "a": "Yes"
+     },
+     {
+      "n": 14,
+      "q": "First of its name?",
+      "a": "Yes"
+     },
+     {
+      "n": 15,
+      "q": "Open-world racing?",
+      "a": "Yes",
+      "checkpoint": "host: 'That's 15' 3140.05s"
+     },
+     {
+      "n": 16,
+      "q": "TITLE GUESS: Was it Forza Horizon?",
+      "a": "Yes \u2014 solved",
+      "t": 3153.45
+     }
+    ],
+    "comparison_metadata": {
+     "host_assistance": false,
+     "external_lookup_discussed": false,
+     "team_count_role": "context shown after reveal, per pilot spec"
+    }
+   },
+   "verification": {
+    "verified_by": "Muse (extraction + first-hand transcript audit)",
+    "qa": "Dot \u2014 independently recounted 16 charged turns from the supplied transcript, 2026-10-14",
+    "method": "Whisper tail transcript ledgered against host checkpoints; game facts sourced per-fact"
+   }
+  }
+ ]
+}
