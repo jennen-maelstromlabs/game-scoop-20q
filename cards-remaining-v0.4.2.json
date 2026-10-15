@@ -1,0 +1,2839 @@
+{
+ "schema": "game-scoop-fact-card/0.4",
+ "dataset_version": "0.2-draft",
+ "batch_note": "Remaining ten pilot cards. Dot QA round 1 completed 2026-10-14; her targeted cleanup corrections applied 2026-10-14. Awaiting Dot freeze pass.",
+ "cards": [
+  {
+   "edition_id": "gs20q-864",
+   "episode": 864,
+   "episode_date": "2026-07-10",
+   "episode_title": "Death By 3,200 Cuts",
+   "episode_url": "https://traffic.megaphone.fm/SBP7719451259.mp3",
+   "segment_seconds": [
+    4439.09,
+    4997.16
+   ],
+   "game": {
+    "title": "Apex Legends",
+    "accepted_titles": [
+     "Apex Legends"
+    ],
+    "genre": "Battle royale / first-person hero shooter",
+    "playable_scope": "Original release (4 February 2019): PlayStation 4, Windows, Xbox One. Later platform releases of the same live-service game: Nintendo Switch (2021), PlayStation 5 / Xbox Series X/S (2022), Nintendo Switch 2 (2025). The 2022 Android/iOS release (Apex Legends Mobile) was a separate mobile build, not a port of the main game, and is outside the playable scope.",
+    "facts": [
+     {
+      "fact": "Developer",
+      "value": "Respawn Entertainment",
+      "source_url": "https://en.wikipedia.org/wiki/Apex_Legends",
+      "locator": "infobox"
+     },
+     {
+      "fact": "Publisher",
+      "value": "Electronic Arts",
+      "source_url": "https://en.wikipedia.org/wiki/Apex_Legends",
+      "locator": "infobox"
+     },
+     {
+      "fact": "Original release",
+      "value": "4 February 2019 \u2014 PlayStation 4, Windows, Xbox One",
+      "source_url": "https://en.wikipedia.org/wiki/Apex_Legends",
+      "locator": "infobox"
+     },
+     {
+      "fact": "Series",
+      "value": "Titanfall",
+      "source_url": "https://en.wikipedia.org/wiki/Apex_Legends",
+      "locator": "infobox"
+     },
+     {
+      "fact": "Genres",
+      "value": "Battle royale, first-person hero shooter",
+      "source_url": "https://en.wikipedia.org/wiki/Apex_Legends",
+      "locator": "infobox"
+     }
+    ],
+    "round_history_traits": [
+     {
+      "trait": "Shooter or action game",
+      "value": true,
+      "source": "episode transcript",
+      "locator": "extraction notable Q&A (tail)",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Play as a human",
+      "value": true,
+      "source": "episode transcript",
+      "locator": "extraction notable Q&A (tail)",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Made in Japan",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "extraction notable Q&A (tail)",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "AAA game",
+      "value": true,
+      "source": "episode transcript",
+      "locator": "4606.13s (declared question 15)",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Published by Activision",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "extraction notable Q&A (tail)",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Sci-fi themed",
+      "value": true,
+      "source": "episode transcript",
+      "locator": "extraction notable Q&A (tail)",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Published by Electronic Arts",
+      "value": true,
+      "source": "episode transcript",
+      "locator": "extraction notable Q&A (tail)",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Features mechs",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "extraction notable Q&A (tail) \u2014 the answer that eliminated Titanfall",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "On a Nintendo platform",
+      "value": true,
+      "source": "episode transcript",
+      "locator": "extraction notable Q&A (tail)",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key",
+      "note": "True via the Nintendo Switch release (9 March 2021) \u2014 the game's first appearance on a Nintendo platform; it was not originally released on a Nintendo platform. A Nintendo Switch 2 version followed in 2025."
+     },
+     {
+      "trait": "Xbox 360 generation",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "extraction notable Q&A (tail)",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     }
+    ],
+    "playable_traits": [
+     {
+      "trait": "Genre: battle royale",
+      "value": true,
+      "source_url": "https://en.wikipedia.org/wiki/Apex_Legends",
+      "locator": "infobox"
+     },
+     {
+      "trait": "Genre: first-person hero shooter",
+      "value": true,
+      "source_url": "https://en.wikipedia.org/wiki/Apex_Legends",
+      "locator": "infobox"
+     },
+     {
+      "trait": "Set in the Titanfall universe (original game series, not an external license)",
+      "value": true,
+      "source_url": "https://en.wikipedia.org/wiki/Apex_Legends",
+      "locator": "infobox (Series: Titanfall)",
+      "note": "This distinction is what the round turned on: the answerer's early license framing was recanted on air (4450.25s) and four questions were rewound."
+     }
+    ]
+   },
+   "round": {
+    "show_convention": "20 questions plus a reserved final guess \u2014 count went fuzzy this episode (see count_convention)",
+    "charged_turns": 21,
+    "yes_no_questions": null,
+    "title_guesses": null,
+    "final_guess_status": "used \u2014 final guess 'Battlefield 1' was wrong (4911.68s)",
+    "solved": false,
+    "outcome": "Team's final guess 'Battlefield 1' was wrong (4911.68s); host revealed Apex Legends (4912.96s). The loss hinged on a recanted license answer and a 4-question rewind; the next episode's post-show recap confirms the team did not get it.",
+    "evidence_completeness": "partial \u2014 tail begins mid-round; no exact auditable count exists; which questions the rewind voided is not recoverable from the tail",
+    "count_convention": "charged_turns = 21 is the SHOW's as-called fuzzy number ('let's just call it 21 questions this week', 4772.05s), not an auditable enumeration. Host checkpoints: 'That's nine, but we can be a little fuzzy' (4495.25s); 'That's 10' (4509.33s); AAA question declared 15 (4606.13s). The full-round yes/no vs title-guess split is unknown (null) for the same reason.",
+    "not_counted": [
+     "Four questions were rewound/voided after the answerer recanted the license answer (4450.25s); their identities are not recoverable"
+    ],
+    "comparison_metadata": {
+     "host_assistance": true,
+     "host_assistance_detail": "Host volunteered late that 'you've said the name of the game' (4864.77s) \u2014 the team had mentioned Apex Legends during the round without guessing it",
+     "answerer_answer_recanted": true,
+     "answerer_answer_recanted_detail": "Answerer (Sam, sitting in) recanted the early license framing \u2014 'do not assume that this is a license game' (4450.25s) \u2014 after four questions had been built on it",
+     "external_lookup_discussed": false,
+     "team_count_role": "context shown after reveal, per pilot spec"
+    }
+   },
+   "verification": {
+    "verified_by": "Muse (extraction + transcript spot-check audit, 2026-10-14)",
+    "qa": "Dot QA round 1 (2026-10-14): playable facts passed bounded source QA; targeted cleanup applied same day. Dot QA round 2 (2026-10-14): residual fixes applied \u2014 Fall Guys Epic/publisher 2022 field corrected to the 2021 transfer; yes/no split fields set to real JSON null with explanations in the round notes (870/871 splits null for missing openings); Waldo ledger restructured to individually observed entries with unsupported indices null and the pixel-hunt exclusion claim removed; Skies sky-pirate history trait set to Unknown; Death's Door cross-pointer corrected to ledger entry 19; 24 counterterrorism locator corrected to 'Plot' \u2014 returned for freeze pass",
+    "method": "Whisper tail transcript ledgered against host checkpoints; extraction independently spot-checked against raw transcript text; game facts sourced per-fact"
+   }
+  },
+  {
+   "edition_id": "gs20q-865",
+   "episode": 865,
+   "episode_date": "2026-07-17",
+   "episode_title": "Bethesda Shares Roadmap It Should Have Shared 10 Years Ago",
+   "episode_url": "https://traffic.megaphone.fm/SBP6070501008.mp3",
+   "segment_seconds": [
+    4195.08,
+    4751.93
+   ],
+   "game": {
+    "title": "Palworld",
+    "as_transcribed_in_tail": "power world / power (Whisper rendering throughout; identification confirmed in-transcript by the post-round naming of developer Pocketpair, 4738.49s)",
+    "accepted_titles": [
+     "Palworld"
+    ],
+    "genre": "Survival / monster-taming",
+    "playable_scope": "Early-access release (19 January 2024): Windows, Xbox One, Xbox Series X/S. PlayStation 5 version followed in September 2024; full (1.0) release 10 July 2026; macOS also listed. All are the same Pocketpair title.",
+    "facts": [
+     {
+      "fact": "Developer",
+      "value": "Pocketpair",
+      "source_url": "https://en.wikipedia.org/wiki/Palworld",
+      "locator": "infobox"
+     },
+     {
+      "fact": "Publisher",
+      "value": "Pocketpair",
+      "source_url": "https://en.wikipedia.org/wiki/Palworld",
+      "locator": "infobox"
+     },
+     {
+      "fact": "Early-access release",
+      "value": "19 January 2024 \u2014 Windows, Xbox One, Xbox Series X/S",
+      "source_url": "https://en.wikipedia.org/wiki/Palworld",
+      "locator": "Release section (exact day: 19 January 2024) + lead (early-access platforms and month)"
+     },
+     {
+      "fact": "Full release",
+      "value": "10 July 2026",
+      "source_url": "https://en.wikipedia.org/wiki/Palworld",
+      "locator": "infobox + lead"
+     },
+     {
+      "fact": "Genres",
+      "value": "Survival, monster-taming",
+      "source_url": "https://en.wikipedia.org/wiki/Palworld",
+      "locator": "infobox"
+     },
+     {
+      "fact": "Developer country",
+      "value": "Japan (Pocketpair is a Japanese developer)",
+      "source_url": "https://en.wikipedia.org/wiki/Palworld",
+      "locator": "lead"
+     }
+    ],
+    "round_history_traits": [
+     {
+      "trait": "RPG",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "extraction recap of earlier answers (tail)",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Action game (broad predicate)",
+      "value": true,
+      "source": "episode transcript",
+      "locator": "4217.46s",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key",
+      "note": "Host answered under a self-described 'very wide umbrella of action' and the team noted he 'gave me that for free' \u2014 generous answer, flagged like the Forza action predicate in ep 863."
+     },
+     {
+      "trait": "Combat a main focus",
+      "value": true,
+      "source": "episode transcript",
+      "locator": "4236.41s (declared question 15)",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Sci-fi",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "extraction notable Q&A (tail)",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Retro-style graphics",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "extraction notable Q&A (tail)",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Positive reviews",
+      "value": true,
+      "source": "episode transcript",
+      "locator": "4319.73s",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key",
+      "note": "Host gave this answer without burning a question ('not burning another question on that')."
+     },
+     {
+      "trait": "Gacha game",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "4493.13s (question 20; transcribed 'gotcha')",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     }
+    ],
+    "playable_traits": [
+     {
+      "trait": "Genre: survival / monster-taming",
+      "value": true,
+      "source_url": "https://en.wikipedia.org/wiki/Palworld",
+      "locator": "infobox"
+     },
+     {
+      "trait": "Open world",
+      "value": true,
+      "source_url": "https://en.wikipedia.org/wiki/Palworld",
+      "locator": "lead"
+     },
+     {
+      "trait": "Single-player and multiplayer modes",
+      "value": true,
+      "source_url": "https://en.wikipedia.org/wiki/Palworld",
+      "locator": "infobox (Modes)"
+     },
+     {
+      "trait": "Firearms usable (player and Pals)",
+      "value": true,
+      "source_url": "https://en.wikipedia.org/wiki/Palworld",
+      "locator": "lead",
+      "note": "The premise 'involves using firearms and equipping Pals with them' \u2014 the basis of its 'Pok\u00e9mon with guns' nickname."
+     }
+    ]
+   },
+   "round": {
+    "show_convention": "20 questions plus a reserved final guess",
+    "charged_turns": 20,
+    "yes_no_questions": null,
+    "title_guesses": null,
+    "final_guess_status": "used \u2014 solved (team guessed Palworld, 4500.01s)",
+    "solved": true,
+    "outcome": "Solved with the reserved final guess after all 20 questions: the team guessed 'power [Palworld]' \u2014 'Yes, it's power' (4500.01s). Solve was collective; no individual is credited with the deciding guess.",
+    "evidence_completeness": "partial \u2014 tail begins mid-round; checkpoints at 15 (4236.41s) and 19 used (4338.10s) plus the final counted question fix the total at 20; the identity of questions 16\u201319 is partially ambiguous (loose phrasing; one answer given 'for free')",
+    "split_confidence": "Full-round yes/no vs title-guess split is null: the pre-tail questions are outside the transcript window. From checkpoint 15 onward the identifiable questions are yes/no and the solve came via the reserved final guess.",
+    "ledger_from_checkpoint_15": [
+     {
+      "n": 15,
+      "q": "Is combat a main focus?",
+      "a": "Yes",
+      "t": 4236.41,
+      "checkpoint": "host: 'that's 15'"
+     },
+     {
+      "n": "16-19",
+      "q": "Partially identifiable in the tail: 'Sci-fi?' No; 'Retro-style graphics?' No; 'Did it get positive reviews?' Yes (given 'for free', 4319.73s). Exact membership/order of 16\u201319 is ambiguous.",
+      "a": "see note"
+     },
+     {
+      "n": 20,
+      "q": "Is this a gacha game? (transcribed 'gotcha')",
+      "a": "No",
+      "t": 4493.13
+     }
+    ],
+    "comparison_metadata": {
+     "host_assistance": true,
+     "host_assistance_detail": "Host answered the action probe generously under a 'very wide umbrella of action' (4217.46s) and gave the positive-reviews answer without burning a question (4319.73s)",
+     "external_lookup_discussed": false,
+     "team_count_role": "context shown after reveal, per pilot spec"
+    }
+   },
+   "verification": {
+    "verified_by": "Muse (extraction + transcript spot-check audit, 2026-10-14)",
+    "qa": "Dot QA round 1 (2026-10-14): playable facts passed bounded source QA; targeted cleanup applied same day. Dot QA round 2 (2026-10-14): residual fixes applied \u2014 Fall Guys Epic/publisher 2022 field corrected to the 2021 transfer; yes/no split fields set to real JSON null with explanations in the round notes (870/871 splits null for missing openings); Waldo ledger restructured to individually observed entries with unsupported indices null and the pixel-hunt exclusion claim removed; Skies sky-pirate history trait set to Unknown; Death's Door cross-pointer corrected to ledger entry 19; 24 counterterrorism locator corrected to 'Plot' \u2014 returned for freeze pass",
+    "method": "Whisper tail transcript ledgered against host checkpoints; extraction independently spot-checked against raw transcript text; game facts sourced per-fact"
+   }
+  },
+  {
+   "edition_id": "gs20q-866",
+   "episode": 866,
+   "episode_date": "2026-07-31",
+   "episode_title": "PlayStation Says Hello to Halo",
+   "episode_url": "https://traffic.megaphone.fm/SBP4464834091.mp3",
+   "segment_seconds": [
+    3739.94,
+    4304.0
+   ],
+   "game": {
+    "title": "24: The Game",
+    "as_transcribed_in_tail": "24 the game",
+    "accepted_titles": [
+     "24: The Game"
+    ],
+    "genre": "Third-person shooter",
+    "playable_scope": "Original 2006 PlayStation 2 edition \u2014 the game's only platform.",
+    "facts": [
+     {
+      "fact": "Developer",
+      "value": "SCEE Cambridge Studio",
+      "source_url": "https://en.wikipedia.org/wiki/24:_The_Game",
+      "locator": "infobox"
+     },
+     {
+      "fact": "Publisher",
+      "value": "Sony Computer Entertainment (EU) / 2K (NA)",
+      "source_url": "https://en.wikipedia.org/wiki/24:_The_Game",
+      "locator": "infobox"
+     },
+     {
+      "fact": "Release",
+      "value": "2006 \u2014 NA 28 February 2006, EU 17 March 2006",
+      "source_url": "https://en.wikipedia.org/wiki/24:_The_Game",
+      "locator": "infobox"
+     },
+     {
+      "fact": "Platform",
+      "value": "PlayStation 2 (exclusive)",
+      "source_url": "https://en.wikipedia.org/wiki/24:_The_Game",
+      "locator": "infobox"
+     },
+     {
+      "fact": "Basis",
+      "value": "Based on the Fox television series 24",
+      "source_url": "https://en.wikipedia.org/wiki/24:_The_Game",
+      "locator": "lead"
+     }
+    ],
+    "round_history_traits": [
+     {
+      "trait": "Exclusive to a PlayStation console",
+      "value": true,
+      "source": "episode transcript",
+      "locator": "extraction notable Q&A (tail)",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "PS2 exclusive",
+      "value": true,
+      "source": "episode transcript",
+      "locator": "3757.24s",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Made in Japan",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "extraction notable Q&A (tail)",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Based on a license",
+      "value": true,
+      "source": "episode transcript",
+      "locator": "extraction notable Q&A (tail)",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Made by Rockstar",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "3866.26s (declared question 10)",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Shooter",
+      "value": true,
+      "source": "episode transcript",
+      "locator": "extraction notable Q&A (tail)",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Sci-fi",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "extraction notable Q&A (tail)",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Espionage or military combat",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "3918.13s",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key",
+      "note": "DISPUTED ON AIR: the team protested that 24 is a counterterrorism/espionage property ('send this up to the commission', 4207.20s) and the host conceded they might be right. Recorded as answered; do not treat as a settled fact. Playable side (Dot QA cleanup 2026-10-14): counterterrorism = true; the broader military/espionage predicate = Unknown (see playable_traits)."
+     },
+     {
+      "trait": "License based on a comic book",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "3986.48s (declared question 15)",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Spooky",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "extraction notable Q&A (tail)",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Monsters",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "extraction notable Q&A (tail)",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Anime",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "4134.88s (question 20)",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     }
+    ],
+    "playable_traits": [
+     {
+      "trait": "Genre: third-person shooter",
+      "value": true,
+      "source_url": "https://en.wikipedia.org/wiki/24:_The_Game",
+      "locator": "infobox + lead"
+     },
+     {
+      "trait": "Licensed TV tie-in (based on the series 24)",
+      "value": true,
+      "source_url": "https://en.wikipedia.org/wiki/24:_The_Game",
+      "locator": "lead"
+     },
+     {
+      "trait": "Single-player",
+      "value": true,
+      "source_url": "https://en.wikipedia.org/wiki/24:_The_Game",
+      "locator": "infobox (Mode)"
+     },
+     {
+      "trait": "Counterterrorism-themed",
+      "value": true,
+      "source_url": "https://en.wikipedia.org/wiki/24:_The_Game",
+      "locator": "Plot",
+      "note": "Sourced position: the game is a counterterrorism story (Jack Bauer / CTU). Set true per Dot QA cleanup 2026-10-14."
+     },
+     {
+      "trait": "Military/espionage (broader predicate, as asked on air)",
+      "value": "Unknown",
+      "source_url": "https://en.wikipedia.org/wiki/24:_The_Game",
+      "locator": "lead",
+      "note": "The host answered 'No' to 'espionage or military combat?' on air and the team disputed it (see round_history_traits). The broader predicate is not cleanly decidable per sources, so the playable value is Unknown; the narrower counterterrorism predicate is true (see the Counterterrorism-themed trait). Never serve the round's No as a settled playable answer."
+     }
+    ]
+   },
+   "round": {
+    "show_convention": "20 questions plus a reserved final guess",
+    "charged_turns": 20,
+    "yes_no_questions": null,
+    "title_guesses": 0,
+    "final_guess_status": "available_but_declined \u2014 team asked for the reveal instead ('Shall I reveal the game? Yeah, we don't have it', 4142.48s)",
+    "solved": false,
+    "outcome": "All 20 questions spent; team declined to guess and asked for the reveal (4142.48s); host revealed 24: The Game (4158.08s) \u2014 a 2006 PS2 exclusive made by Sony, based on the TV show.",
+    "evidence_completeness": "partial \u2014 tail begins mid-round; the opening platform cluster is compressed into garbled lines (3752.58\u20133757.24s), so pre-10 counting rests on the host's stated total; question #17 is not individually identifiable",
+    "count_convention": "charged_turns = 20 is the host-checkpoint total (checkpoints: 'That's 10' 3866.26s; comic-book question 'that's 15' 3986.48s; 'three questions and a guess' = 17 used, 4109.04s; 'one question and a guess' = 19 used, 4124.48s; final 'Is this anime?' = 20). A delegated cross-check enumerated 19 individually distinct questions. Both numbers are recorded; neither is silently preferred. yes_no_questions is null: 19 questions are individually identifiable; the 20th charged turn (the Q17 slot) is not individually identifiable, so no full-round yes/no total is asserted.",
+    "ledger_from_checkpoint_10": [
+     {
+      "n": 10,
+      "q": "Was this made by Rockstar?",
+      "a": "No",
+      "t": 3866.26,
+      "checkpoint": "host: 'That's 10'"
+     },
+     {
+      "n": "11-14",
+      "q": "Identifiable in the tail: 'Shooter?' Yes; 'Sci-fi?' No; 'Espionage or military combat?' No (disputed on air, 3918.13s). One of the four slots is not cleanly identifiable.",
+      "a": "see note"
+     },
+     {
+      "n": 15,
+      "q": "License based on a comic book?",
+      "a": "No",
+      "t": 3986.48,
+      "checkpoint": "host: 'that's 15'"
+     },
+     {
+      "n": "16-19",
+      "q": "Identifiable: 'Spooky?' No; 'Monsters?' No. The Q17 slot is not individually identifiable.",
+      "a": "see note"
+     },
+     {
+      "n": 20,
+      "q": "Is this anime?",
+      "a": "No",
+      "t": 4134.88
+     }
+    ],
+    "comparison_metadata": {
+     "host_assistance": false,
+     "answer_disputed_on_air": true,
+     "answer_disputed_detail": "The 'espionage or military combat? No' answer (3918.13s) was disputed in-show; the property is counterterrorism/espionage and the answer arguably misled the round",
+     "external_lookup_discussed": false,
+     "team_count_role": "context shown after reveal, per pilot spec"
+    }
+   },
+   "verification": {
+    "verified_by": "Muse (extraction + transcript spot-check audit, 2026-10-14)",
+    "qa": "Dot QA round 1 (2026-10-14): playable facts passed bounded source QA; targeted cleanup applied same day. Dot QA round 2 (2026-10-14): residual fixes applied \u2014 Fall Guys Epic/publisher 2022 field corrected to the 2021 transfer; yes/no split fields set to real JSON null with explanations in the round notes (870/871 splits null for missing openings); Waldo ledger restructured to individually observed entries with unsupported indices null and the pixel-hunt exclusion claim removed; Skies sky-pirate history trait set to Unknown; Death's Door cross-pointer corrected to ledger entry 19; 24 counterterrorism locator corrected to 'Plot' \u2014 returned for freeze pass",
+    "method": "Whisper tail transcript ledgered against host checkpoints; extraction independently spot-checked against raw transcript text; game facts sourced per-fact"
+   }
+  },
+  {
+   "edition_id": "gs20q-867",
+   "episode": 867,
+   "episode_date": "2026-08-07",
+   "episode_title": "What 6 Hours of GTA 6 Really Buys Netflix",
+   "episode_url": "https://traffic.megaphone.fm/SBP3856185551.mp3",
+   "segment_seconds": [
+    3682.43,
+    4294.01
+   ],
+   "game": {
+    "title": "Detroit: Become Human",
+    "accepted_titles": [
+     "Detroit: Become Human"
+    ],
+    "genre": "Adventure",
+    "playable_scope": "Original PlayStation 4 edition (25 May 2018). A Windows port followed on 12 December 2019 \u2014 the round itself establishes this ('Port to PC? Yes', i.e. multi-platform 'today').",
+    "facts": [
+     {
+      "fact": "Developer",
+      "value": "Quantic Dream",
+      "source_url": "https://en.wikipedia.org/wiki/Detroit:_Become_Human",
+      "locator": "infobox"
+     },
+     {
+      "fact": "Publisher",
+      "value": "Sony Interactive Entertainment (PS4); the Windows edition was published by Quantic Dream",
+      "source_url": "https://en.wikipedia.org/wiki/Detroit:_Become_Human",
+      "locator": "infobox + footnote"
+     },
+     {
+      "fact": "Release",
+      "value": "PlayStation 4: 25 May 2018; Windows: 12 December 2019",
+      "source_url": "https://en.wikipedia.org/wiki/Detroit:_Become_Human",
+      "locator": "infobox"
+     },
+     {
+      "fact": "Platforms",
+      "value": "PlayStation 4, Windows",
+      "source_url": "https://en.wikipedia.org/wiki/Detroit:_Become_Human",
+      "locator": "infobox"
+     },
+     {
+      "fact": "Genre",
+      "value": "Adventure",
+      "source_url": "https://en.wikipedia.org/wiki/Detroit:_Become_Human",
+      "locator": "infobox"
+     }
+    ],
+    "round_history_traits": [
+     {
+      "trait": "Espionage and/or military",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "ledger Q1",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "70s/80s/90s",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "ledger Q2",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Appeared on a PlayStation system",
+      "value": true,
+      "source": "episode transcript",
+      "locator": "ledger Q3",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Originally on an even-numbered PlayStation",
+      "value": true,
+      "source": "episode transcript",
+      "locator": "ledger Q4 (PS4)",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Made in Japan",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "ledger Q5",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Part of a series",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "ledger Q6",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "PS2 game",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "ledger Q7",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Multi-platform",
+      "value": true,
+      "source": "episode transcript",
+      "locator": "ledger Q8",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key",
+      "note": "Host's answer was 'It is today' \u2014 true now via the Windows port; it launched as a PS4 exclusive."
+     },
+     {
+      "trait": "Published by Sony",
+      "value": true,
+      "source": "episode transcript",
+      "locator": "ledger Q9",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Port to PC",
+      "value": true,
+      "source": "episode transcript",
+      "locator": "ledger Q10",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Feature Freakers",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "ledger Q11 (the Days Gone test)",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Roguelike",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "ledger Q12 (the Returnal test)",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Play as a human",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "ledger Q13",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Play as an animal",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "ledger Q14",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Play as a robot",
+      "value": true,
+      "source": "episode transcript",
+      "locator": "ledger Q15",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     }
+    ],
+    "playable_traits": [
+     {
+      "trait": "Genre: adventure game",
+      "value": true,
+      "source_url": "https://en.wikipedia.org/wiki/Detroit:_Become_Human",
+      "locator": "infobox"
+     },
+     {
+      "trait": "Single-player",
+      "value": true,
+      "source_url": "https://en.wikipedia.org/wiki/Detroit:_Become_Human",
+      "locator": "infobox (Mode)"
+     },
+     {
+      "trait": "Original platform: PlayStation 4",
+      "value": true,
+      "source_url": "https://en.wikipedia.org/wiki/Detroit:_Become_Human",
+      "locator": "infobox"
+     }
+    ]
+   },
+   "round": {
+    "show_convention": "20 questions plus a reserved final guess",
+    "charged_turns": 17,
+    "yes_no_questions": 16,
+    "title_guesses": 1,
+    "final_guess_status": "not_reached \u2014 solved during the questions phase",
+    "solved": true,
+    "outcome": "Solved on charged turn 17, a title guess: 'Is this game Detroit Become Human?' (4119.01s). Solver not individually named; the final questions were team-voiced and the host prompted 'Now just say its name' (4117.01s).",
+    "evidence_completeness": "complete \u2014 full round inside the transcript tail; all three stated checkpoints (5 at 3812.43s, 10 at 3893.43s, 15 at 4095.01s) match the enumeration exactly",
+    "ledger": [
+     {
+      "n": 1,
+      "q": "Espionage and/or military?",
+      "a": "No"
+     },
+     {
+      "n": 2,
+      "q": "70s/80s/90s?",
+      "a": "No"
+     },
+     {
+      "n": 3,
+      "q": "Appeared on a PlayStation system?",
+      "a": "Yes"
+     },
+     {
+      "n": 4,
+      "q": "Originally on an even-numbered PlayStation?",
+      "a": "Yes"
+     },
+     {
+      "n": 5,
+      "q": "Made in Japan?",
+      "a": "No",
+      "checkpoint": "host: 'That's five' 3812.43s"
+     },
+     {
+      "n": 6,
+      "q": "Part of a series?",
+      "a": "No"
+     },
+     {
+      "n": 7,
+      "q": "PS2 game?",
+      "a": "No"
+     },
+     {
+      "n": 8,
+      "q": "Multi-platform?",
+      "a": "Yes ('It is today')"
+     },
+     {
+      "n": 9,
+      "q": "Published by Sony?",
+      "a": "Yes"
+     },
+     {
+      "n": 10,
+      "q": "Port to PC?",
+      "a": "Yes",
+      "checkpoint": "host: 'That's 10' 3893.43s"
+     },
+     {
+      "n": 11,
+      "q": "Feature Freakers?",
+      "a": "No"
+     },
+     {
+      "n": 12,
+      "q": "Roguelike?",
+      "a": "No"
+     },
+     {
+      "n": 13,
+      "q": "Play as a human?",
+      "a": "No"
+     },
+     {
+      "n": 14,
+      "q": "Play as an animal?",
+      "a": "No"
+     },
+     {
+      "n": 15,
+      "q": "Play as a robot?",
+      "a": "Yes",
+      "checkpoint": "host: 'That's 15' 4095.01s"
+     },
+     {
+      "n": 16,
+      "q": "Narrative alternate choices via button prompts/QTEs?",
+      "a": "Yes"
+     },
+     {
+      "n": 17,
+      "q": "TITLE GUESS: Is this game Detroit Become Human?",
+      "a": "Yes \u2014 solved",
+      "t": 4119.01
+     }
+    ],
+    "comparison_metadata": {
+     "host_assistance": false,
+     "external_lookup_discussed": false,
+     "team_count_role": "context shown after reveal, per pilot spec"
+    }
+   },
+   "verification": {
+    "verified_by": "Muse (extraction + transcript spot-check audit, 2026-10-14)",
+    "qa": "Dot QA round 1 (2026-10-14): playable facts passed bounded source QA; targeted cleanup applied same day. Dot QA round 2 (2026-10-14): residual fixes applied \u2014 Fall Guys Epic/publisher 2022 field corrected to the 2021 transfer; yes/no split fields set to real JSON null with explanations in the round notes (870/871 splits null for missing openings); Waldo ledger restructured to individually observed entries with unsupported indices null and the pixel-hunt exclusion claim removed; Skies sky-pirate history trait set to Unknown; Death's Door cross-pointer corrected to ledger entry 19; 24 counterterrorism locator corrected to 'Plot' \u2014 returned for freeze pass",
+    "method": "Whisper tail transcript ledgered against host checkpoints; extraction independently spot-checked against raw transcript text; game facts sourced per-fact"
+   }
+  },
+  {
+   "edition_id": "gs20q-869",
+   "episode": 869,
+   "episode_date": "2026-08-21",
+   "episode_title": "GTA 6 and Those Game of the Year Awards",
+   "episode_url": "https://traffic.megaphone.fm/SBP9535227295.mp3",
+   "segment_seconds": [
+    3101.68,
+    3980.82
+   ],
+   "game": {
+    "title": "Fall Guys",
+    "accepted_titles": [
+     "Fall Guys",
+     "Fall Guys: Ultimate Knockout"
+    ],
+    "genre": "Battle royale / platform",
+    "playable_scope": "Original release (4 August 2020): PlayStation 4, Windows \u2014 launched as Fall Guys: Ultimate Knockout. Later releases of the same game: Nintendo Switch / PlayStation 5 / Xbox One / Xbox Series X/S (21 June 2022, alongside the free-to-play relaunch and the shortened title), Android / iOS (2024).",
+    "facts": [
+     {
+      "fact": "Developer",
+      "value": "Mediatonic",
+      "source_url": "https://en.wikipedia.org/wiki/Fall_Guys",
+      "locator": "infobox"
+     },
+     {
+      "fact": "Publisher",
+      "value": "Devolver Digital (original release); Epic Games (Epic acquired Mediatonic's parent Tonic Games Group in 2021 and publishing rights transferred to Epic in 2021; 2022 is only the free-to-play relaunch)",
+      "source_url": "https://en.wikipedia.org/wiki/Fall_Guys",
+      "locator": "infobox"
+     },
+     {
+      "fact": "Original release",
+      "value": "4 August 2020 \u2014 PlayStation 4, Windows",
+      "source_url": "https://en.wikipedia.org/wiki/Fall_Guys",
+      "locator": "infobox"
+     },
+     {
+      "fact": "Genres",
+      "value": "Battle royale, platform",
+      "source_url": "https://en.wikipedia.org/wiki/Fall_Guys",
+      "locator": "infobox"
+     },
+     {
+      "fact": "Mode",
+      "value": "Multiplayer",
+      "source_url": "https://en.wikipedia.org/wiki/Fall_Guys",
+      "locator": "infobox"
+     }
+    ],
+    "round_history_traits": [
+     {
+      "trait": "Title starts A\u2013M",
+      "value": true,
+      "source": "episode transcript",
+      "locator": "ledger Q1",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Has a named panelist played it",
+      "value": true,
+      "source": "episode transcript",
+      "locator": "ledger Q2 (panel-specific color; not a game fact)",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Platform-exclusive",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "ledger Q3",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "On a Nintendo platform",
+      "value": true,
+      "source": "episode transcript",
+      "locator": "ledger Q4",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key",
+      "note": "True via the 2022 Switch release; not an original platform."
+     },
+     {
+      "trait": "Cartridge-based",
+      "value": true,
+      "source": "episode transcript",
+      "locator": "ledger Q5",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key",
+      "note": "Recorded as answered (Yes). The on-air game-card rationale is not retained as sourcing: per sources the original 2020 PS4/Windows release was disc/download, and no sourced basis establishes this title as cartridge-based \u2014 underlying predicate: Unknown."
+     },
+     {
+      "trait": "Indie",
+      "value": true,
+      "source": "episode transcript",
+      "locator": "ledger Q6",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key",
+      "note": "As answered; Mediatonic was an independent studio at the game's 2020 release (acquired by Epic in 2021). Round history only."
+     },
+     {
+      "trait": "Part of a series",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "ledger Q7",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Cozy or roguelite",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "ledger Q8",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Platformer / action / puzzle (any)",
+      "value": true,
+      "source": "episode transcript",
+      "locator": "ledger Q9",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Platformer",
+      "value": true,
+      "source": "episode transcript",
+      "locator": "ledger Q10",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Known for being difficult",
+      "value": true,
+      "source": "episode transcript",
+      "locator": "ledger Q11",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Die often",
+      "value": true,
+      "source": "episode transcript",
+      "locator": "ledger Q12",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Play as a human",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "ledger Q13",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key",
+      "note": "The round's pivotal answer; host added 'You're not a human. You're a little bit confusing. There's a reason why.' (3683.14s) \u2014 the characters are bean creatures."
+     },
+     {
+      "trait": "Metroidvania",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "ledger Q14",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Retro-style graphics",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "ledger Q15",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "2D",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "ledger Q16",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "From the last 10 years",
+      "value": true,
+      "source": "episode transcript",
+      "locator": "ledger Q18",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Designed in Japan",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "ledger Q19",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Exclusively single player",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "ledger Q20",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     }
+    ],
+    "playable_traits": [
+     {
+      "trait": "Genre: battle royale",
+      "value": true,
+      "source_url": "https://en.wikipedia.org/wiki/Fall_Guys",
+      "locator": "infobox"
+     },
+     {
+      "trait": "Genre: platform game",
+      "value": true,
+      "source_url": "https://en.wikipedia.org/wiki/Fall_Guys",
+      "locator": "infobox"
+     },
+     {
+      "trait": "Multiplayer (up to 60 players per match at launch)",
+      "value": true,
+      "source_url": "https://en.wikipedia.org/wiki/Fall_Guys",
+      "locator": "infobox (Mode) + lead"
+     },
+     {
+      "trait": "Original platforms: PlayStation 4 and Windows (2020)",
+      "value": true,
+      "source_url": "https://en.wikipedia.org/wiki/Fall_Guys",
+      "locator": "infobox"
+     }
+    ]
+   },
+   "round": {
+    "show_convention": "20 questions plus a reserved final guess",
+    "charged_turns": 20,
+    "yes_no_questions": null,
+    "title_guesses": 0,
+    "final_guess_status": "used \u2014 final guess 'It Takes Two' was wrong (3822.82s)",
+    "solved": false,
+    "outcome": "All 20 questions spent; final guess 'Is this It Takes Two?' was wrong (3822.82s); host revealed Fall Guys (3841.82s) \u2014 the submitter's note (read on air) cited it as a pandemic phenomenon whose developer Epic bought. The team had named Fall Guys during deliberation but didn't guess it.",
+    "evidence_completeness": "near-complete \u2014 full round inside the tail and five checkpoints/callouts anchor the total; question #17 is not cleanly identifiable (candidate: a repeated 'Is there combat?' probe at 3441.45s/3505.09s with no transcribed answer)",
+    "count_convention": "charged_turns = 20 questions (host-checkpoint total) plus the reserved final guess recorded separately above. A delegated cross-check enumerated 19 individually distinct questions + the guess. Both numbers are recorded; neither is silently preferred. yes_no_questions is null: the host-checkpoint total is 20 with 19 individually distinct auditable (Q17 not cleanly identifiable), so no integer is asserted.",
+    "ledger": [
+     {
+      "n": 1,
+      "q": "Title starts A\u2013M?",
+      "a": "Yes"
+     },
+     {
+      "n": 2,
+      "q": "Has a named panelist played it?",
+      "a": "Yes"
+     },
+     {
+      "n": 3,
+      "q": "Platform-exclusive?",
+      "a": "No"
+     },
+     {
+      "n": 4,
+      "q": "On a Nintendo platform?",
+      "a": "Yes"
+     },
+     {
+      "n": 5,
+      "q": "Cartridge-based?",
+      "a": "Yes",
+      "checkpoint": "host: 'That's five' 3300.17s"
+     },
+     {
+      "n": 6,
+      "q": "Indie?",
+      "a": "Yes"
+     },
+     {
+      "n": 7,
+      "q": "Part of a series?",
+      "a": "No"
+     },
+     {
+      "n": 8,
+      "q": "Cozy or roguelite?",
+      "a": "No"
+     },
+     {
+      "n": 9,
+      "q": "Platformer/action/puzzle?",
+      "a": "Yes"
+     },
+     {
+      "n": 10,
+      "q": "Platformer?",
+      "a": "Yes",
+      "checkpoint": "host: 'That's 10' 3347.66s"
+     },
+     {
+      "n": 11,
+      "q": "Known for being difficult?",
+      "a": "Yes"
+     },
+     {
+      "n": 12,
+      "q": "Die often?",
+      "a": "Yes"
+     },
+     {
+      "n": 13,
+      "q": "Play as a human?",
+      "a": "No (host: 'confusing \u2014 there's a reason why')"
+     },
+     {
+      "n": 14,
+      "q": "Metroidvania?",
+      "a": "No"
+     },
+     {
+      "n": 15,
+      "q": "Retro-style graphics?",
+      "a": "No",
+      "checkpoint": "host: 'That's 15' 3493.45s"
+     },
+     {
+      "n": 16,
+      "q": "2D?",
+      "a": "No"
+     },
+     {
+      "n": 17,
+      "q": "[not cleanly identifiable \u2014 candidate: repeated 'Is there combat?' probe, no transcribed answer]",
+      "a": "unknown"
+     },
+     {
+      "n": 18,
+      "q": "From the last 10 years?",
+      "a": "Yes",
+      "checkpoint": "host: 'two questions and a guess' 3667.79s"
+     },
+     {
+      "n": 19,
+      "q": "Designed in Japan?",
+      "a": "No",
+      "checkpoint": "host: 'one more question and a guess' 3704.14s"
+     },
+     {
+      "n": 20,
+      "q": "Exclusively single player?",
+      "a": "No",
+      "t": 3756.64
+     }
+    ],
+    "comparison_metadata": {
+     "host_assistance": true,
+     "host_assistance_detail": "On the human question the host added a steering aside ('You're a little bit confusing. There's a reason why.', 3683.14s)",
+     "external_lookup_discussed": false,
+     "team_count_role": "context shown after reveal, per pilot spec"
+    }
+   },
+   "verification": {
+    "verified_by": "Muse (extraction + transcript spot-check audit, 2026-10-14)",
+    "qa": "Dot QA round 1 (2026-10-14): playable facts passed bounded source QA; targeted cleanup applied same day. Dot QA round 2 (2026-10-14): residual fixes applied \u2014 Fall Guys Epic/publisher 2022 field corrected to the 2021 transfer; yes/no split fields set to real JSON null with explanations in the round notes (870/871 splits null for missing openings); Waldo ledger restructured to individually observed entries with unsupported indices null and the pixel-hunt exclusion claim removed; Skies sky-pirate history trait set to Unknown; Death's Door cross-pointer corrected to ledger entry 19; 24 counterterrorism locator corrected to 'Plot' \u2014 returned for freeze pass",
+    "method": "Whisper tail transcript ledgered against host checkpoints; extraction independently spot-checked against raw transcript text; game facts sourced per-fact"
+   }
+  },
+  {
+   "edition_id": "gs20q-870",
+   "episode": 870,
+   "episode_date": "2026-09-04",
+   "episode_title": "Capcom's Winning Streak Continues",
+   "episode_url": "https://traffic.megaphone.fm/SBP6156359341.mp3",
+   "segment_seconds": [
+    3947.45,
+    4719.79
+   ],
+   "game": {
+    "title": "Overlord",
+    "accepted_titles": [
+     "Overlord",
+     "Overlord (2007)"
+    ],
+    "genre": "Action role-playing",
+    "playable_scope": "Original release (2007): Xbox 360 and Windows. The PlayStation 3 version arrived in 2008, bundled with the Raising Hell expansion. The host's reveal described 'a 2007 Xbox 360/PS3 game' \u2014 imprecise for PS3 (see production_notes). Sequels and spin-offs (Overlord II, Dark Legend, Minions) are different games, out of scope.",
+    "facts": [
+     {
+      "fact": "Developer",
+      "value": "Triumph Studios",
+      "source_url": "https://en.wikipedia.org/wiki/Overlord_(2007_video_game)",
+      "locator": "lead + infobox"
+     },
+     {
+      "fact": "Publisher",
+      "value": "Codemasters",
+      "source_url": "https://en.wikipedia.org/wiki/Overlord_(2007_video_game)",
+      "locator": "lead + infobox"
+     },
+     {
+      "fact": "Original release",
+      "value": "26 June 2007 (NA) \u2014 Xbox 360, Windows",
+      "source_url": "https://en.wikipedia.org/wiki/Overlord_(2007_video_game)",
+      "locator": "lead"
+     },
+     {
+      "fact": "PlayStation 3 version",
+      "value": "Released 2008 as Overlord: Raising Hell (base game + expansion)",
+      "source_url": "https://en.wikipedia.org/wiki/Overlord_(2007_video_game)",
+      "locator": "lead"
+     },
+     {
+      "fact": "Genre",
+      "value": "Action role-playing",
+      "source_url": "https://en.wikipedia.org/wiki/Overlord_(2007_video_game)",
+      "locator": "infobox"
+     }
+    ],
+    "production_notes": [
+     "Sources describe RTS elements in the game's design (minion control 'brings elements of real-time strategy'), which sits against the host's on-air 'driving/strategy/platformer? No' answer (4169.28s). Flagged for QA; not resolved here."
+    ],
+    "round_history_traits": [
+     {
+      "trait": "Multiplayer",
+      "value": true,
+      "source": "episode transcript",
+      "locator": "ledger (resumed) Q1",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key",
+      "note": "The host noted post-round that the multiplayer the team fixated on was a tacked-on mode."
+     },
+     {
+      "trait": "Couch/offline multiplayer",
+      "value": true,
+      "source": "episode transcript",
+      "locator": "ledger (resumed) Q2",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Originally on a Nintendo console",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "ledger (resumed) Q3",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Play as a human",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "ledger (resumed) Q4",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "After 2000",
+      "value": true,
+      "source": "episode transcript",
+      "locator": "ledger (resumed) Q5",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Originally on an Xbox console",
+      "value": true,
+      "source": "episode transcript",
+      "locator": "ledger (resumed) Q6",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Xbox exclusive",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "ledger (resumed) Q7",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Released in downloadable form",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "ledger (resumed) Q8",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Indie",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "ledger (resumed) Q9",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Publisher had E3 press conferences",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "ledger (resumed) Q11",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "First/third-person shooter",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "ledger (resumed) Q12",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Driving / strategy / platformer",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "4169.28s (ledger (resumed) Q13)",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key",
+      "note": "DISPUTED BY SOURCES for the strategy limb: Wikipedia describes RTS elements via minion control. The team swept every genre and missed partly on this answer."
+     },
+     {
+      "trait": "Fighting or survival crafting",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "ledger (resumed) Q14",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Multiplayer competitive",
+      "value": true,
+      "source": "episode transcript",
+      "locator": "4218.63s (ledger (resumed) Q15)",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Sports",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "ledger (resumed) Q16",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Party or pinball",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "ledger (resumed) Q17",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Schmup",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "ledger (resumed) Q19",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Based on a license",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "4526.47s (ledger (resumed) Q20)",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     }
+    ],
+    "playable_traits": [
+     {
+      "trait": "Genre: action role-playing",
+      "value": true,
+      "source_url": "https://en.wikipedia.org/wiki/Overlord_(2007_video_game)",
+      "locator": "infobox"
+     },
+     {
+      "trait": "Real-time strategy elements (minion control)",
+      "value": true,
+      "source_url": "https://en.wikipedia.org/wiki/Overlord_(2007_video_game)",
+      "locator": "lead",
+      "note": "Conflicts with the host's on-air 'strategy? No'; in play this predicate should be answered Yes per sources or Unknown, never the round's No."
+     },
+     {
+      "trait": "Third-person perspective (the Overlord is controlled in third person)",
+      "value": true,
+      "source_url": "https://en.wikipedia.org/wiki/Overlord_(2007_video_game)",
+      "locator": "lead"
+     },
+     {
+      "trait": "Multiplayer mode (original 2007 release)",
+      "value": true,
+      "source_url": "https://en.wikipedia.org/wiki/Overlord_(2007_video_game)",
+      "locator": "infobox (Mode: single-player, multiplayer)",
+      "status": "historical only \u2014 describes the original release; not a current playable trait",
+      "note": "The 2007 release shipped with multiplayer modes per the source infobox; that release's multiplayer is historical. Do not serve as a current playable answer."
+     }
+    ]
+   },
+   "round": {
+    "show_convention": "20 questions plus a reserved final guess",
+    "charged_turns": 20,
+    "yes_no_questions": null,
+    "title_guesses": null,
+    "final_guess_status": "used \u2014 final guess 'Pac-Man Championship Edition 2' was wrong (4530.03s)",
+    "solved": false,
+    "outcome": "Final guess 'Pac-Man Championship Edition 2' was wrong (4530.03s); host revealed Overlord (4609.71s) \u2014 a 2007 Xbox 360 game (PS3 version 2008) the submitter described post-round as 'a fun and silly Pikmin style, an evil Pikmin style game' (4605.39s).",
+    "evidence_completeness": "partial \u2014 the round's intro and ~1 question predate the tail (segment start is the in-tail resumption point, 3947.45s); one question between the party/pinball ask and the 'two questions and a guess' checkpoint (4454.45s) is not cleanly identifiable (possibly the disputed 'on a Nintendo platform ever' ask argued about at 4292.88s)",
+    "count_convention": "charged_turns = 20 is the host-tally-implied total: the host corrected the running count mid-round ('Say that it was 10, sorry', 4107.94s \u2014 one question predates the tail) and the 'that's 15' call (4218.63s) lands on the 14th individually distinct question. A delegated cross-check enumerated 18 distinct questions. Both numbers are recorded; neither is silently preferred. yes_no_questions is null: 18 individually identifiable; host tallies imply 20. title_guesses is also null: the round opening predates the tail, so an early title guess cannot be ruled out and the full-round split is not auditable.",
+    "ledger_resumed_in_tail": [
+     {
+      "n": 1,
+      "q": "Multiplayer?",
+      "a": "Yes"
+     },
+     {
+      "n": 2,
+      "q": "Couch/offline multiplayer?",
+      "a": "Yes",
+      "checkpoint": "host: 'that's two' 4008.57s"
+     },
+     {
+      "n": 3,
+      "q": "Originally on a Nintendo console?",
+      "a": "No"
+     },
+     {
+      "n": 4,
+      "q": "Play as a human?",
+      "a": "No"
+     },
+     {
+      "n": 5,
+      "q": "After 2000?",
+      "a": "Yes",
+      "checkpoint": "host: 'that's five' 4053.98s"
+     },
+     {
+      "n": 6,
+      "q": "Originally on an Xbox console?",
+      "a": "Yes"
+     },
+     {
+      "n": 7,
+      "q": "Xbox exclusive?",
+      "a": "No"
+     },
+     {
+      "n": 8,
+      "q": "Released in downloadable form?",
+      "a": "No"
+     },
+     {
+      "n": 9,
+      "q": "Indie?",
+      "a": "No",
+      "checkpoint": "host then corrected the total: 'Say that it was 10, sorry' 4107.94s \u2014 one question predates the tail"
+     },
+     {
+      "n": 11,
+      "q": "Publisher had E3 press conferences (in the game's window)?",
+      "a": "No"
+     },
+     {
+      "n": 12,
+      "q": "First/third-person shooter?",
+      "a": "No"
+     },
+     {
+      "n": 13,
+      "q": "Driving/strategy/platformer?",
+      "a": "No",
+      "t": 4169.28
+     },
+     {
+      "n": 14,
+      "q": "Fighting or survival crafting?",
+      "a": "No"
+     },
+     {
+      "n": 15,
+      "q": "Multiplayer competitive?",
+      "a": "Yes",
+      "checkpoint": "host: 'that's 15' 4218.63s \u2014 14th distinct question; see count_convention"
+     },
+     {
+      "n": 16,
+      "q": "Sports?",
+      "a": "No"
+     },
+     {
+      "n": 17,
+      "q": "Party or pinball?",
+      "a": "No"
+     },
+     {
+      "n": 18,
+      "q": "[not cleanly identifiable \u2014 possibly the disputed 'on a Nintendo platform ever' ask]",
+      "a": "unknown",
+      "checkpoint": "host: 'two questions and a guess' 4454.45s = 18 used"
+     },
+     {
+      "n": 19,
+      "q": "Schmup?",
+      "a": "No"
+     },
+     {
+      "n": 20,
+      "q": "Based on a license?",
+      "a": "No",
+      "t": 4526.47,
+      "checkpoint": "host: 'That brings you to a guess'"
+     }
+    ],
+    "comparison_metadata": {
+     "host_assistance": false,
+     "answer_disputed_on_air": false,
+     "answer_dispute_note": "No on-air dispute, but the 'strategy? No' answer conflicts with sourced descriptions of the game (RTS elements) \u2014 flagged in playable_traits and production_notes",
+     "external_lookup_discussed": false,
+     "team_count_role": "context shown after reveal, per pilot spec"
+    }
+   },
+   "verification": {
+    "verified_by": "Muse (extraction + transcript spot-check audit, 2026-10-14)",
+    "qa": "Dot QA round 1 (2026-10-14): playable facts passed bounded source QA; targeted cleanup applied same day. Dot QA round 2 (2026-10-14): residual fixes applied \u2014 Fall Guys Epic/publisher 2022 field corrected to the 2021 transfer; yes/no split fields set to real JSON null with explanations in the round notes (870/871 splits null for missing openings); Waldo ledger restructured to individually observed entries with unsupported indices null and the pixel-hunt exclusion claim removed; Skies sky-pirate history trait set to Unknown; Death's Door cross-pointer corrected to ledger entry 19; 24 counterterrorism locator corrected to 'Plot' \u2014 returned for freeze pass",
+    "method": "Whisper tail transcript ledgered against host checkpoints; extraction independently spot-checked against raw transcript text; game facts sourced per-fact"
+   }
+  },
+  {
+   "edition_id": "gs20q-871",
+   "episode": 871,
+   "episode_date": "2026-09-11",
+   "episode_title": "It's About Ocarina of Time",
+   "episode_url": "https://traffic.megaphone.fm/SBP3955222575.mp3",
+   "segment_seconds": [
+    4295.16,
+    4844.28
+   ],
+   "game": {
+    "title": "Where's Waldo?",
+    "as_transcribed_in_tail": "where's Waldo",
+    "accepted_titles": [
+     "Where's Waldo?",
+     "Where's Wally?"
+    ],
+    "genre": "Hidden object game",
+    "playable_scope": "Original Nintendo Entertainment System edition (1991) \u2014 the first Where's Waldo? video game. The sequel, The Great Waldo Search (1992), is a different game and out of scope; the round's 'first of its name? Yes' answer turns on this distinction.",
+    "facts": [
+     {
+      "fact": "Developer",
+      "value": "Bethesda Softworks",
+      "source_url": "https://en.wikipedia.org/wiki/Where's_Waldo%3F_(video_game)",
+      "locator": "infobox"
+     },
+     {
+      "fact": "Publisher",
+      "value": "THQ",
+      "source_url": "https://en.wikipedia.org/wiki/Where's_Waldo%3F_(video_game)",
+      "locator": "infobox"
+     },
+     {
+      "fact": "Release",
+      "value": "1991 (infobox: July 1991; some listings give September 1991)",
+      "source_url": "https://en.wikipedia.org/wiki/Where's_Waldo%3F_(video_game)",
+      "locator": "infobox"
+     },
+     {
+      "fact": "Platform",
+      "value": "Nintendo Entertainment System",
+      "source_url": "https://en.wikipedia.org/wiki/Where's_Waldo%3F_(video_game)",
+      "locator": "infobox"
+     },
+     {
+      "fact": "Genre",
+      "value": "Hidden object game",
+      "source_url": "https://en.wikipedia.org/wiki/Where's_Waldo%3F_(video_game)",
+      "locator": "infobox"
+     },
+     {
+      "fact": "Basis",
+      "value": "First video game based on Martin Handford's 1987 book of the same name",
+      "source_url": "https://en.wikipedia.org/wiki/Where's_Waldo%3F_(video_game)",
+      "locator": "lead"
+     }
+    ],
+    "round_history_traits": [
+     {
+      "trait": "Based on a book",
+      "value": true,
+      "source": "episode transcript",
+      "locator": "4305.20s",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key",
+      "note": "Host answered with a deliberate asterisk: 'I have to answer yes or no. So yes, but think about why I might be putting an asterisk on that' \u2014 a picture book with few words."
+     },
+     {
+      "trait": "License features an iconic character",
+      "value": true,
+      "source": "episode transcript",
+      "locator": "extraction notable Q&A (tail)",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Spooky game",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "extraction notable Q&A (tail)",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Based on books for kids",
+      "value": true,
+      "source": "episode transcript",
+      "locator": "extraction notable Q&A (tail)",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Character wears a hat and glasses",
+      "value": true,
+      "source": "episode transcript",
+      "locator": "4501.52s (declared question 15)",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "First of its name",
+      "value": true,
+      "source": "episode transcript",
+      "locator": "4523.44s (question 16)",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     }
+    ],
+    "playable_traits": [
+     {
+      "trait": "Genre: hidden object game",
+      "value": true,
+      "source_url": "https://en.wikipedia.org/wiki/Where's_Waldo%3F_(video_game)",
+      "locator": "infobox"
+     },
+     {
+      "trait": "Based on a children's picture-book series",
+      "value": true,
+      "source_url": "https://en.wikipedia.org/wiki/Where's_Waldo%3F_(video_game)",
+      "locator": "lead"
+     },
+     {
+      "trait": "Platform: NES (8-bit)",
+      "value": true,
+      "source_url": "https://en.wikipedia.org/wiki/Where's_Waldo%3F_(video_game)",
+      "locator": "infobox"
+     }
+    ]
+   },
+   "round": {
+    "show_convention": "20 questions plus a reserved final guess",
+    "charged_turns": 17,
+    "yes_no_questions": null,
+    "title_guesses": null,
+    "final_guess_status": "not_reached \u2014 solved during the questions phase",
+    "solved": true,
+    "outcome": "Solved on charged turn 17, a title guess: 'Is it Where's Waldo?' (4523.44s). Solver cannot be individually attributed: the transcript says two hosts 'got there literally the exact same frame' (4511.92s) and the final confirming question's speaker is not named.",
+    "evidence_completeness": "partial \u2014 tail begins mid-round (11 questions already asked at the 4353.96s checkpoint); pre-tail questions 1\u201311 are not individually in the tail; checkpoints at 11 and 15 anchor the visible ledger Full-round split is null (yes_no_questions and title_guesses): the round opening is missing from the tail, so the split is not auditable; the visible window's asks are itemized individually in the ledger without asserting a full-round split.",
+    "ledger_from_checkpoint_11": [
+     {
+      "n": null,
+      "q": "Based on a book?",
+      "a": "Yes (with the host's asterisk)",
+      "t": 4295.16,
+      "t_basis": "observed \u2014 ask at 4295.16s; the host's asterisked 'yes' answer runs 4301.24\u20134312.68s",
+      "n_basis": "null \u2014 asked before the host's 'you've asked 11' callout (4353.96s); no callout fixes this ask's own index",
+      "checkpoint": "precedes host: 'you've asked 11' 4353.96s"
+     },
+     {
+      "n": null,
+      "q": "License features an iconic character?",
+      "a": "Yes",
+      "t": 4356.84,
+      "t_basis": "observed \u2014 ask segment begins 4356.84s; host's 'Yes' at 4360.64\u20134364.92s",
+      "n_basis": "null \u2014 between the 11- and 15-question checkpoints; its individual index is not fixed by any callout"
+     },
+     {
+      "n": null,
+      "q": "Spooky game?",
+      "a": "No",
+      "t": 4382.68,
+      "t_basis": "observed \u2014 ask and host's 'No' at 4382.68\u20134384.92s",
+      "n_basis": "null \u2014 between the 11- and 15-question checkpoints; its individual index is not fixed by any callout"
+     },
+     {
+      "n": null,
+      "q": "Based on books for kids?",
+      "a": "Yes",
+      "t": 4455.6,
+      "t_basis": "observed \u2014 ask and host's 'Yes' at 4455.60\u20134459.20s",
+      "n_basis": "null \u2014 between the 11- and 15-question checkpoints; its individual index is not fixed by any callout"
+     },
+     {
+      "n": null,
+      "q": "Is it a pixel hunt game? (probe)",
+      "a": "Unknown \u2014 host's response was equivocal ('Well, I can't yes\u2026', 4479.60s); no clean yes/no answer",
+      "t": 4476.76,
+      "t_basis": "observed \u2014 probe asked at 4476.76\u20134478.76s",
+      "n_basis": "null \u2014 no callout establishes whether this probe was charged, so it is neither assigned a slot nor asserted as uncounted"
+     },
+     {
+      "n": 15,
+      "q": "Does the character wear a hat and glasses?",
+      "a": "Yes",
+      "t": 4501.52,
+      "t_basis": "observed \u2014 ask and answer at 4501.52\u20134507.72s",
+      "checkpoint": "host: 'that's 15' (same segment, 4501.52s)",
+      "n_basis": "observed \u2014 anchored by the host's 'that's 15' checkpoint at this entry's timestamp"
+     },
+     {
+      "n": 16,
+      "q": "Is it the first of its name?",
+      "a": "Yes",
+      "t": 4523.44,
+      "t_basis": "observed \u2014 ask and answer within 4523.44\u20134529.20s",
+      "n_basis": "inferred \u2014 the only charged ask between the observed 15 checkpoint and the closing title guess; the recorded 17-turn total fixes this slot as 16"
+     },
+     {
+      "n": 17,
+      "q": "TITLE GUESS: Is it Where's Waldo?",
+      "a": "Yes \u2014 solved",
+      "t": 4523.44,
+      "t_basis": "observed \u2014 ask and answer within 4523.44\u20134529.20s, immediately after Q16",
+      "n_basis": "inferred \u2014 closing ask of the round; the recorded total of 17 charged turns fixes this slot as 17 (see outcome)"
+     }
+    ],
+    "not_counted": [],
+    "comparison_metadata": {
+     "host_assistance": true,
+     "host_assistance_detail": "Host's asterisked 'based on a book? Yes' (4305.20s) deliberately steered the team toward a picture book",
+     "external_lookup_discussed": false,
+     "team_count_role": "context shown after reveal, per pilot spec"
+    },
+    "ledger_field_semantics": "Each entry is one directly observed ask in the visible window, in transcript order. n = charged-turn slot number only where a host callout or checkpoint arithmetic directly supports it (15 via the host's 'that's 15' at 4501.52s; 16\u201317 derived from that checkpoint plus the recorded 17-turn total); n is null where the position cannot be supported. The window between the 'you've asked 11' callout (4353.96s) and the 15 checkpoint contains more observed asks than can be individually indexed from the callouts alone, and no callout resolves how each was counted \u2014 including the equivocal 'pixel hunt' probe (4476.76s), which is carried as its own entry with n null rather than asserted as counted or uncounted. t = observed transcript timestamp in seconds (segment start of the ask). The 'Based on a book?' entry (4295.16s) precedes the 11-question callout and is included because it is directly observed in the tail; its index is null."
+   },
+   "verification": {
+    "verified_by": "Muse (extraction + transcript spot-check audit, 2026-10-14)",
+    "qa": "Dot QA round 1 (2026-10-14): playable facts passed bounded source QA; targeted cleanup applied same day. Dot QA round 2 (2026-10-14): residual fixes applied \u2014 Fall Guys Epic/publisher 2022 field corrected to the 2021 transfer; yes/no split fields set to real JSON null with explanations in the round notes (870/871 splits null for missing openings); Waldo ledger restructured to individually observed entries with unsupported indices null and the pixel-hunt exclusion claim removed; Skies sky-pirate history trait set to Unknown; Death's Door cross-pointer corrected to ledger entry 19; 24 counterterrorism locator corrected to 'Plot' \u2014 returned for freeze pass",
+    "method": "Whisper tail transcript ledgered against host checkpoints; extraction independently spot-checked against raw transcript text; game facts sourced per-fact"
+   }
+  },
+  {
+   "edition_id": "gs20q-872",
+   "episode": 872,
+   "episode_date": "2026-09-25",
+   "episode_title": "343 Reasons to Give Halo to Activision",
+   "episode_url": "https://traffic.megaphone.fm/SBP2015240633.mp3",
+   "segment_seconds": [
+    3582.26,
+    4422.64
+   ],
+   "game": {
+    "title": "Death's Door",
+    "accepted_titles": [
+     "Death's Door"
+    ],
+    "genre": "Action-adventure",
+    "playable_scope": "Original release (20 July 2021): Windows, Xbox One, Xbox Series X/S. Nintendo Switch / PlayStation 4 / PlayStation 5 versions followed 23 November 2021; Android / iOS ports (Netflix) in 2023. All are the same Acid Nerve title.",
+    "facts": [
+     {
+      "fact": "Developer",
+      "value": "Acid Nerve",
+      "source_url": "https://en.wikipedia.org/wiki/Death%27s_Door_(video_game)",
+      "locator": "infobox"
+     },
+     {
+      "fact": "Publisher",
+      "value": "Devolver Digital",
+      "source_url": "https://en.wikipedia.org/wiki/Death%27s_Door_(video_game)",
+      "locator": "infobox"
+     },
+     {
+      "fact": "Original release",
+      "value": "20 July 2021 \u2014 Windows, Xbox One, Xbox Series X/S",
+      "source_url": "https://en.wikipedia.org/wiki/Death%27s_Door_(video_game)",
+      "locator": "infobox + lead"
+     },
+     {
+      "fact": "Genre",
+      "value": "Action-adventure",
+      "source_url": "https://en.wikipedia.org/wiki/Death%27s_Door_(video_game)",
+      "locator": "infobox"
+     },
+     {
+      "fact": "Series relation",
+      "value": "Sequel to Titan Souls (Acid Nerve's earlier game)",
+      "source_url": "https://en.wikipedia.org/wiki/Death%27s_Door_(video_game)",
+      "locator": "lead",
+      "note": "Cross-reference: in the round, 'Multiple entries in series?' (Q11) was answered No \u2014 see the 'Multiple entries in series' entry in game.round_history_traits and ledger Q11. The No is defensible under the question's intent (Death's Door is the only entry under its own title) despite this sequel relationship."
+     }
+    ],
+    "round_history_traits": [
+     {
+      "trait": "Can you jump",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "ledger Q1",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key",
+      "note": "Opener that shaped the round: 'You are fused to the ground' (3620.50s)."
+     },
+     {
+      "trait": "Play as a living being",
+      "value": true,
+      "source": "episode transcript",
+      "locator": "ledger Q2",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Exclusive to one platform",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "ledger Q3",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Can you see your character",
+      "value": true,
+      "source": "episode transcript",
+      "locator": "ledger Q4",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "From this century",
+      "value": true,
+      "source": "episode transcript",
+      "locator": "ledger Q5",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Story the central purpose",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "ledger Q6",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Multiplayer a focus",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "ledger Q7",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "From the last 10 years",
+      "value": true,
+      "source": "episode transcript",
+      "locator": "ledger Q8",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "On Nintendo Switch",
+      "value": true,
+      "source": "episode transcript",
+      "locator": "ledger Q9",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Indie",
+      "value": true,
+      "source": "episode transcript",
+      "locator": "ledger Q10",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Multiple entries in series",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "ledger Q11",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key",
+      "note": "As answered. Note Death's Door is a sequel to Titan Souls per Wikipedia, but it is the only Death's Door entry \u2014 the question's intent (multiple entries in this series) makes the host's No defensible. Flagged for QA. Cross-reference: see the sourced 'Series relation' fact in game.facts (Death's Door as sequel to Titan Souls)."
+     },
+     {
+      "trait": "Cozy",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "ledger Q12",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Roguelike",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "ledger Q13",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Play as a human",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "ledger Q14",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Play as an animal",
+      "value": true,
+      "source": "episode transcript",
+      "locator": "ledger Q15",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Warm-blooded creature",
+      "value": true,
+      "source": "episode transcript",
+      "locator": "ledger Q16",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Goal to irritate people",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "ledger Q17 (the Untitled Goose Game test)",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Animal lays eggs",
+      "value": true,
+      "source": "episode transcript",
+      "locator": "ledger Q18",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Mentioned on the show before",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "4177.77s (question 20)",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     }
+    ],
+    "playable_traits": [
+     {
+      "trait": "Genre: action-adventure",
+      "value": true,
+      "source_url": "https://en.wikipedia.org/wiki/Death%27s_Door_(video_game)",
+      "locator": "infobox"
+     },
+     {
+      "trait": "Single-player",
+      "value": true,
+      "source_url": "https://en.wikipedia.org/wiki/Death%27s_Door_(video_game)",
+      "locator": "infobox (Mode)"
+     },
+     {
+      "trait": "Player character is a crow (a soul-reaping crow)",
+      "value": true,
+      "source_url": "https://www.siliconera.com/devolver-digital-deaths-door-game-july/",
+      "locator": "article text ('you're a Crow. Your job is to collect souls')"
+     }
+    ]
+   },
+   "round": {
+    "show_convention": "20 questions plus a reserved final guess",
+    "charged_turns": 20,
+    "yes_no_questions": null,
+    "title_guesses": 0,
+    "final_guess_status": "used \u2014 solved (final guess 'Death's Door' correct, 4267.33s)",
+    "solved": true,
+    "outcome": "Solved with the reserved final guess after all 20 questions: 'Is it Death's Door?' \u2014 Yes (4267.33s). The guess was surfaced by Sam ('I think Sam just pulled this out', 4258.33s); his surname is not stated in this episode and is not recorded here.",
+    "evidence_completeness": "near-complete \u2014 full round inside the tail; checkpoints at 5 (3688.05s), 10 (3778.15s) and 15 (3938.06s) match the enumeration exactly; late-round off-by-one (see count_convention)",
+    "count_convention": "The 'one question and a guess' checkpoint (4101.78s) implies 19 questions used where 18 are cleanly identifiable \u2014 the unanswered 'do you fly?' probe (4060.22s\u20134064.18s) is the likely 19th charged turn. charged_turns follows the host checkpoints (20). yes_no_questions is null: 19 individually identifiable; checkpoint arithmetic implies a 20th (the unanswered 'do you fly?' probe, recorded at ledger entry 19).",
+    "ledger": [
+     {
+      "n": 1,
+      "q": "Can you jump?",
+      "a": "No"
+     },
+     {
+      "n": 2,
+      "q": "Play as a living being?",
+      "a": "Yes"
+     },
+     {
+      "n": 3,
+      "q": "Exclusive to one platform?",
+      "a": "No"
+     },
+     {
+      "n": 4,
+      "q": "Can you see your character?",
+      "a": "Yes"
+     },
+     {
+      "n": 5,
+      "q": "From this century?",
+      "a": "Yes",
+      "checkpoint": "host: 'that's five' 3688.05s"
+     },
+     {
+      "n": 6,
+      "q": "Story the central purpose?",
+      "a": "No"
+     },
+     {
+      "n": 7,
+      "q": "Multiplayer a focus?",
+      "a": "No"
+     },
+     {
+      "n": 8,
+      "q": "From the last 10 years?",
+      "a": "Yes"
+     },
+     {
+      "n": 9,
+      "q": "On Nintendo Switch?",
+      "a": "Yes"
+     },
+     {
+      "n": 10,
+      "q": "Indie?",
+      "a": "Yes",
+      "checkpoint": "host: 'that's 10' 3778.15s"
+     },
+     {
+      "n": 11,
+      "q": "Multiple entries in series?",
+      "a": "No",
+      "note": "Cross-reference: see game.facts 'Series relation' (sequel to Titan Souls) and game.round_history_traits 'Multiple entries in series'."
+     },
+     {
+      "n": 12,
+      "q": "Cozy?",
+      "a": "No"
+     },
+     {
+      "n": 13,
+      "q": "Roguelike?",
+      "a": "No"
+     },
+     {
+      "n": 14,
+      "q": "Play as a human?",
+      "a": "No"
+     },
+     {
+      "n": 15,
+      "q": "Play as an animal?",
+      "a": "Yes",
+      "checkpoint": "host: 'that's 15' 3938.06s"
+     },
+     {
+      "n": 16,
+      "q": "Warm-blooded creature?",
+      "a": "Yes"
+     },
+     {
+      "n": 17,
+      "q": "Goal to irritate people?",
+      "a": "No"
+     },
+     {
+      "n": 18,
+      "q": "Does the animal lay eggs?",
+      "a": "Yes"
+     },
+     {
+      "n": 19,
+      "q": "[not cleanly identifiable \u2014 likely the unanswered 'do you fly?' probe, 4060.22s]",
+      "a": "unknown",
+      "checkpoint": "host: 'one question and a guess' 4101.78s implies 19 used"
+     },
+     {
+      "n": 20,
+      "q": "Have we mentioned the game?",
+      "a": "No",
+      "t": 4177.77
+     }
+    ],
+    "not_counted": [
+     "The 2D/3D questions were deliberately never asked ('Let's not ask that question', 3825.24s) and are excluded"
+    ],
+    "comparison_metadata": {
+     "host_assistance": false,
+     "external_lookup_discussed": false,
+     "team_count_role": "context shown after reveal, per pilot spec"
+    }
+   },
+   "verification": {
+    "verified_by": "Muse (extraction + transcript spot-check audit, 2026-10-14)",
+    "qa": "Dot QA round 1 (2026-10-14): playable facts passed bounded source QA; targeted cleanup applied same day. Dot QA round 2 (2026-10-14): residual fixes applied \u2014 Fall Guys Epic/publisher 2022 field corrected to the 2021 transfer; yes/no split fields set to real JSON null with explanations in the round notes (870/871 splits null for missing openings); Waldo ledger restructured to individually observed entries with unsupported indices null and the pixel-hunt exclusion claim removed; Skies sky-pirate history trait set to Unknown; Death's Door cross-pointer corrected to ledger entry 19; 24 counterterrorism locator corrected to 'Plot' \u2014 returned for freeze pass",
+    "method": "Whisper tail transcript ledgered against host checkpoints; extraction independently spot-checked against raw transcript text; game facts sourced per-fact"
+   }
+  },
+  {
+   "edition_id": "gs20q-873",
+   "episode": 873,
+   "episode_date": "2026-10-02",
+   "episode_title": "Games of Our Lives, Pt. 2",
+   "episode_url": "https://traffic.megaphone.fm/SBP9022343747.mp3",
+   "segment_seconds": [
+    3927.83,
+    4475.35
+   ],
+   "game": {
+    "title": "Splatterhouse 2",
+    "as_transcribed_in_tail": "Splatterhouse two",
+    "accepted_titles": [
+     "Splatterhouse 2",
+     "Splatterhouse Part 2"
+    ],
+    "genre": "Beat 'em up",
+    "playable_scope": "Original Sega Genesis edition (1992). Later re-releases (Wii Virtual Console, 2008; unlockable extra in the 2010 remake; Sega Genesis Mini 2) are the same Genesis game, not distinct editions.",
+    "facts": [
+     {
+      "fact": "Developer",
+      "value": "Now Production",
+      "source_url": "https://en.wikipedia.org/wiki/Splatterhouse_2",
+      "locator": "infobox"
+     },
+     {
+      "fact": "Publisher",
+      "value": "Namco",
+      "source_url": "https://en.wikipedia.org/wiki/Splatterhouse_2",
+      "locator": "infobox"
+     },
+     {
+      "fact": "Release",
+      "value": "1992 \u2014 NA July 1992, JP 4 August 1992",
+      "source_url": "https://en.wikipedia.org/wiki/Splatterhouse_2",
+      "locator": "infobox"
+     },
+     {
+      "fact": "Platform",
+      "value": "Sega Genesis",
+      "source_url": "https://en.wikipedia.org/wiki/Splatterhouse_2",
+      "locator": "infobox"
+     },
+     {
+      "fact": "Genre",
+      "value": "Beat 'em up",
+      "source_url": "https://en.wikipedia.org/wiki/Splatterhouse_2",
+      "locator": "infobox"
+     },
+     {
+      "fact": "Series position",
+      "value": "Sequel to the 1988 arcade Splatterhouse; third installment in the series",
+      "source_url": "https://en.wikipedia.org/wiki/Splatterhouse_2",
+      "locator": "lead"
+     }
+    ],
+    "round_history_traits": [
+     {
+      "trait": "Spooky",
+      "value": true,
+      "source": "episode transcript",
+      "locator": "ledger Q1",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "3D",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "ledger Q2",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Targeted at adults",
+      "value": true,
+      "source": "episode transcript",
+      "locator": "ledger Q3",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key",
+      "note": "Host answered via the game's Virtual Console M-rating, explained post-round (4425.15s)."
+     },
+     {
+      "trait": "Originally on an 8/16-bit console",
+      "value": true,
+      "source": "episode transcript",
+      "locator": "ledger Q4",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Based on a license",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "ledger Q5",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Character's underpants visible",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "ledger Q6",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Ever an arcade game",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "ledger Q7",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key",
+      "note": "True of Splatterhouse 2 itself; the original Splatterhouse was an arcade game \u2014 the distinction the team had to hold."
+     },
+     {
+      "trait": "On NES",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "ledger Q8",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Zombies in it",
+      "value": true,
+      "source": "episode transcript",
+      "locator": "ledger Q9",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Side-scrolling",
+      "value": true,
+      "source": "episode transcript",
+      "locator": "ledger Q10",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "On SNES",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "ledger Q11",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "On Genesis",
+      "value": true,
+      "source": "episode transcript",
+      "locator": "ledger Q12",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Made by Konami",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "ledger Q13",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Play an undead character",
+      "value": "unknown",
+      "source": "episode transcript",
+      "locator": "4178.00s (ledger Q14)",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key",
+      "note": "Host's answer was equivocal: 'I don't think so.' The hero (Rick) is possessed/empowered by the Terror Mask, not undead. Recorded as unknown, not as the round's soft no."
+     },
+     {
+      "trait": "Platformer",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "ledger Q15",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Multiplayer",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "ledger Q16",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Pilot a vehicle",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "ledger Q17",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Brawler",
+      "value": true,
+      "source": "episode transcript",
+      "locator": "ledger Q18",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Character wears a mask",
+      "value": true,
+      "source": "episode transcript",
+      "locator": "4347.67s (final question)",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     }
+    ],
+    "playable_traits": [
+     {
+      "trait": "Genre: beat 'em up",
+      "value": true,
+      "source_url": "https://en.wikipedia.org/wiki/Splatterhouse_2",
+      "locator": "infobox"
+     },
+     {
+      "trait": "Side-scrolling",
+      "value": true,
+      "source_url": "https://en.wikipedia.org/wiki/Splatterhouse_2",
+      "locator": "lead"
+     },
+     {
+      "trait": "Single-player",
+      "value": true,
+      "source_url": "https://en.wikipedia.org/wiki/Splatterhouse_2",
+      "locator": "infobox (Mode)"
+     },
+     {
+      "trait": "Original platform: Sega Genesis only",
+      "value": true,
+      "source_url": "https://en.wikipedia.org/wiki/Splatterhouse_2",
+      "locator": "infobox (Platform)"
+     }
+    ]
+   },
+   "round": {
+    "show_convention": "20 questions plus a reserved final guess",
+    "charged_turns": 20,
+    "yes_no_questions": null,
+    "title_guesses": 0,
+    "final_guess_status": "used \u2014 solved (final guess 'Is it Splatterhouse 2?' correct, 4351.11s)",
+    "solved": true,
+    "outcome": "Solved with the reserved final guess: after the last question ('Does your character wear a mask?' Yes, 4347.67s) the team guessed 'Is it Splatterhouse? Two?' \u2014 Yes (4351.11s). Solver not individually named.",
+    "evidence_completeness": "near-complete \u2014 full round inside the tail; checkpoints at 5 (4015.67s), 10 (4130.39s) and 15 (4191.40s) match the enumeration exactly; one question implied by the late callout is not recoverable (candidates: the joke underpants follow-up at 4030.77s, or a merged ask)",
+    "count_convention": "charged_turns = 20 follows the host's checkpoints/callouts. 18 questions are cleanly identifiable up to the brawler answer, after which 'one question and one guess' (4278.89s) implies 19 used; the mask question and the final guess close the round. yes_no_questions is null: 19 identifiable including the final mask question, but the 'one question and one guess' callout (4278.89s) implies one more question than the 18 cleanly identifiable at that point, so no exact integer is asserted.",
+    "ledger": [
+     {
+      "n": 1,
+      "q": "Spooky?",
+      "a": "Yes"
+     },
+     {
+      "n": 2,
+      "q": "3D?",
+      "a": "No"
+     },
+     {
+      "n": 3,
+      "q": "Targeted at adults?",
+      "a": "Yes"
+     },
+     {
+      "n": 4,
+      "q": "Originally on an 8/16-bit console?",
+      "a": "Yes"
+     },
+     {
+      "n": 5,
+      "q": "Based on a license?",
+      "a": "No",
+      "checkpoint": "host: 'that's five' 4015.67s"
+     },
+     {
+      "n": 6,
+      "q": "Character's underpants visible?",
+      "a": "No"
+     },
+     {
+      "n": 7,
+      "q": "Ever an arcade game?",
+      "a": "No"
+     },
+     {
+      "n": 8,
+      "q": "On NES?",
+      "a": "No"
+     },
+     {
+      "n": 9,
+      "q": "Zombies in it?",
+      "a": "Yes"
+     },
+     {
+      "n": 10,
+      "q": "Side-scrolling?",
+      "a": "Yes",
+      "checkpoint": "host: 'that's 10' 4130.39s"
+     },
+     {
+      "n": 11,
+      "q": "On SNES?",
+      "a": "No"
+     },
+     {
+      "n": 12,
+      "q": "On Genesis?",
+      "a": "Yes"
+     },
+     {
+      "n": 13,
+      "q": "Made by Konami?",
+      "a": "No"
+     },
+     {
+      "n": 14,
+      "q": "Play an undead character?",
+      "a": "Equivocal \u2014 'I don't think so' 4178.00s"
+     },
+     {
+      "n": 15,
+      "q": "Platformer?",
+      "a": "No",
+      "checkpoint": "host: 'that's 15' 4191.40s"
+     },
+     {
+      "n": 16,
+      "q": "Multiplayer?",
+      "a": "No"
+     },
+     {
+      "n": 17,
+      "q": "Pilot a vehicle?",
+      "a": "No"
+     },
+     {
+      "n": 18,
+      "q": "Brawler?",
+      "a": "Yes",
+      "checkpoint": "host then: 'One question and one guess' 4278.89s \u2014 implies 19 used; one question not recoverable"
+     },
+     {
+      "n": "19/20",
+      "q": "Does your character wear a mask?",
+      "a": "Yes",
+      "t": 4347.67
+     }
+    ],
+    "not_counted": [
+     "The repeated '8-bit game?' probe (4060.60s) was called out in-show as a repeat and not double-counted"
+    ],
+    "comparison_metadata": {
+     "host_assistance": false,
+     "external_lookup_discussed": false,
+     "team_count_role": "context shown after reveal, per pilot spec"
+    }
+   },
+   "verification": {
+    "verified_by": "Muse (extraction + transcript spot-check audit, 2026-10-14)",
+    "qa": "Dot QA round 1 (2026-10-14): playable facts passed bounded source QA; targeted cleanup applied same day. Dot QA round 2 (2026-10-14): residual fixes applied \u2014 Fall Guys Epic/publisher 2022 field corrected to the 2021 transfer; yes/no split fields set to real JSON null with explanations in the round notes (870/871 splits null for missing openings); Waldo ledger restructured to individually observed entries with unsupported indices null and the pixel-hunt exclusion claim removed; Skies sky-pirate history trait set to Unknown; Death's Door cross-pointer corrected to ledger entry 19; 24 counterterrorism locator corrected to 'Plot' \u2014 returned for freeze pass",
+    "method": "Whisper tail transcript ledgered against host checkpoints; extraction independently spot-checked against raw transcript text; game facts sourced per-fact"
+   }
+  },
+  {
+   "edition_id": "gs20q-874",
+   "episode": 874,
+   "episode_date": "2026-10-09",
+   "episode_title": "The Best Nintendo Switch Online Games (As of October '26)",
+   "episode_url": "https://traffic.megaphone.fm/SBP2492264715.mp3",
+   "segment_seconds": [
+    3146.41,
+    3610.58
+   ],
+   "game": {
+    "title": "Skies of Arcadia Legends",
+    "accepted_titles": [
+     "Skies of Arcadia Legends"
+    ],
+    "genre": "Role-playing",
+    "playable_scope": "Skies of Arcadia Legends \u2014 the GameCube enhanced port (JP 26 December 2002; NA January 2003) of the 2000 Dreamcast original, Skies of Arcadia. The round's answers identify the Legends GameCube edition specifically (Q2 'GameCube game? Yes'). A planned PlayStation 2 port was cancelled and a Windows port never released; Sega describes Legends as a 'director's cut' with added quests and discoveries.",
+    "facts": [
+     {
+      "fact": "Developer",
+      "value": "Overworks (original); Legends port developed with assistance from Point of View Software",
+      "source_url": "https://en.wikipedia.org/wiki/Skies_of_Arcadia",
+      "locator": "Legends port section"
+     },
+     {
+      "fact": "Publisher",
+      "value": "Sega",
+      "source_url": "https://en.wikipedia.org/wiki/Skies_of_Arcadia",
+      "locator": "infobox / Legends port section"
+     },
+     {
+      "fact": "Legends release",
+      "value": "GameCube \u2014 JP 26 December 2002; NA January 2003; EU 23 May 2003",
+      "source_url": "https://en.wikipedia.org/wiki/Skies_of_Arcadia",
+      "locator": "Legends port section"
+     },
+     {
+      "fact": "Original game",
+      "value": "Skies of Arcadia, Dreamcast, 2000",
+      "source_url": "https://en.wikipedia.org/wiki/Skies_of_Arcadia",
+      "locator": "lead"
+     },
+     {
+      "fact": "Genre",
+      "value": "Role-playing",
+      "source_url": "https://en.wikipedia.org/wiki/Skies_of_Arcadia",
+      "locator": "lead"
+     }
+    ],
+    "production_notes": [
+     "North American release day for Legends is given as 28 January 2003 in the Wikipedia text and 27 January 2003 in some databases; the card records month-level precision (January 2003) to avoid silently picking one."
+    ],
+    "round_history_traits": [
+     {
+      "trait": "70s/80s/90s",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "ledger Q1 ('None of the above')",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "GameCube game",
+      "value": true,
+      "source": "episode transcript",
+      "locator": "ledger Q2",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Named on this episode",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "ledger Q3",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Number in the title",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "ledger Q4",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Developed or published by Nintendo",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "ledger Q5",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Available on PS2",
+      "value": false,
+      "source": "episode transcript",
+      "locator": "ledger Q6",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key",
+      "note": "Consistent with sources: the PS2 port was cancelled."
+     },
+     {
+      "trait": "Japanese developer",
+      "value": true,
+      "source": "episode transcript",
+      "locator": "ledger Q7",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "RPG",
+      "value": true,
+      "source": "episode transcript",
+      "locator": "ledger Q8",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Published by Sega",
+      "value": true,
+      "source": "episode transcript",
+      "locator": "ledger Q9",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key"
+     },
+     {
+      "trait": "Pirate a sky ship in it",
+      "value": "Unknown",
+      "source": "episode transcript",
+      "locator": "3382.45s (ledger Q10)",
+      "playable": false,
+      "status": "round history only \u2014 host's answer as evidence, not a live answer key",
+      "note": "Host's answer was equivocal ('I think so', 3382.45s) \u2014 recorded as Unknown, matching the ledger Q10 value. This trait records only what the host answered; the independently sourced playable position is the separate playable trait 'Sky-pirate protagonist with airship travel' (playable_traits, sourced), which is a different field."
+     }
+    ],
+    "playable_traits": [
+     {
+      "trait": "Genre: role-playing game",
+      "value": true,
+      "source_url": "https://en.wikipedia.org/wiki/Skies_of_Arcadia",
+      "locator": "lead"
+     },
+     {
+      "trait": "Sky-pirate protagonist with airship travel",
+      "value": true,
+      "source_url": "https://en.wikipedia.org/wiki/Skies_of_Arcadia",
+      "locator": "lead / story summary"
+     },
+     {
+      "trait": "Legends edition platform: GameCube",
+      "value": true,
+      "source_url": "https://en.wikipedia.org/wiki/Skies_of_Arcadia",
+      "locator": "Legends port section"
+     }
+    ]
+   },
+   "round": {
+    "show_convention": "20 questions plus a reserved final guess",
+    "charged_turns": 11,
+    "yes_no_questions": 10,
+    "title_guesses": 1,
+    "final_guess_status": "not_reached \u2014 solved during the questions phase",
+    "solved": true,
+    "outcome": "Solved on charged turn 11, a title guess: 'Is this Skies of Arcadia Legends?' (3383.62s) \u2014 the fastest round in the pilot set. The post-credits stinger credits Justin ('Justin locked onto that one', 3686.28s); his surname is not stated in this episode and is not recorded here.",
+    "evidence_completeness": "complete \u2014 full round inside the transcript tail; the Q5 checkpoint (3264.10s) matches the enumeration",
+    "ledger": [
+     {
+      "n": 1,
+      "q": "70s/80s/90s?",
+      "a": "No ('None of the above')"
+     },
+     {
+      "n": 2,
+      "q": "GameCube game?",
+      "a": "Yes"
+     },
+     {
+      "n": 3,
+      "q": "Named on this episode?",
+      "a": "No"
+     },
+     {
+      "n": 4,
+      "q": "Number in the title?",
+      "a": "No"
+     },
+     {
+      "n": 5,
+      "q": "Developed or published by Nintendo?",
+      "a": "No",
+      "checkpoint": "host: 'that's five' 3264.10s"
+     },
+     {
+      "n": 6,
+      "q": "Available on PS2?",
+      "a": "No"
+     },
+     {
+      "n": 7,
+      "q": "Japanese developer?",
+      "a": "Yes"
+     },
+     {
+      "n": 8,
+      "q": "RPG?",
+      "a": "Yes"
+     },
+     {
+      "n": 9,
+      "q": "Published by Sega?",
+      "a": "Yes"
+     },
+     {
+      "n": 10,
+      "q": "Do you pirate a sky ship in it?",
+      "a": "Unknown",
+      "t": 3382.45,
+      "answer_note": "Host's answer was equivocal ('I think so', 3382.45s) \u2014 recorded as Unknown per Dot QA cleanup 2026-10-14."
+     },
+     {
+      "n": 11,
+      "q": "TITLE GUESS: Is this Skies of Arcadia Legends?",
+      "a": "Yes \u2014 solved",
+      "t": 3383.62
+     }
+    ],
+    "not_counted": [
+     "Opening banter 'What was his pick?' (3191.06s) was jokingly declared to count on air ('Okay, 19 questions left', 3202.30s) but the Q5 checkpoint matches the enumeration without it; taken literally the count would be 12",
+     "The RPG question was asked twice in overlapping speech (3369.54s, 3372.70s) and counted once"
+    ],
+    "comparison_metadata": {
+     "host_assistance": false,
+     "external_lookup_discussed": false,
+     "team_count_role": "context shown after reveal, per pilot spec"
+    }
+   },
+   "verification": {
+    "verified_by": "Muse (extraction + transcript spot-check audit, 2026-10-14)",
+    "qa": "Dot QA round 1 (2026-10-14): playable facts passed bounded source QA; targeted cleanup applied same day. Dot QA round 2 (2026-10-14): residual fixes applied \u2014 Fall Guys Epic/publisher 2022 field corrected to the 2021 transfer; yes/no split fields set to real JSON null with explanations in the round notes (870/871 splits null for missing openings); Waldo ledger restructured to individually observed entries with unsupported indices null and the pixel-hunt exclusion claim removed; Skies sky-pirate history trait set to Unknown; Death's Door cross-pointer corrected to ledger entry 19; 24 counterterrorism locator corrected to 'Plot' \u2014 returned for freeze pass",
+    "method": "Whisper tail transcript ledgered against host checkpoints; extraction independently spot-checked against raw transcript text; game facts sourced per-fact"
+   }
+  }
+ ]
+}
